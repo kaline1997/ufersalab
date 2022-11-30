@@ -1,0 +1,5571 @@
+CODIGO MUNICIPIO;UF;NOME MUNICIPIO
+110001 RO Alta Floresta d`Oeste
+110002 RO Ariquemes
+110003 RO Cabixi
+110004 RO Cacoal
+110005 RO Cerejeiras
+110006 RO Colorado do Oeste
+110007 RO Corumbiara
+110008 RO Costa Marques
+110009 RO Espig�o d`Oeste
+110010 RO Guajar�-Mirim
+110011 RO Jaru
+110012 RO Ji-Paran�
+110013 RO Machadinho d`Oeste
+110014 RO Nova Brasil�ndia d`Oeste
+110015 RO Ouro Preto do Oeste
+110018 RO Pimenta Bueno
+110020 RO Porto Velho
+110025 RO Presidente M�dici
+110026 RO Rio Crespo
+110028 RO Rolim de Moura
+110029 RO Santa Luzia d`Oeste
+110030 RO Vilhena
+110032 RO S�o Miguel do Guapor�
+110033 RO Nova Mamor�
+110034 RO Alvorada d`Oeste
+110037 RO Alto Alegre dos Parecis
+110040 RO Alto Para�so
+110045 RO Buritis
+110050 RO Novo Horizonte do Oeste
+110060 RO Cacaul�ndia
+110070 RO Campo Novo de Rond�nia
+110080 RO Candeias do Jamari
+110090 RO Castanheiras
+110092 RO Chupinguaia
+110094 RO Cujubim
+110100 RO Governador Jorge Teixeira
+110110 RO Itapu� do Oeste
+110120 RO Ministro Andreazza
+110130 RO Mirante da Serra
+110140 RO Monte Negro
+110143 RO Nova Uni�o
+110145 RO Parecis
+110146 RO Pimenteiras do Oeste
+110147 RO Primavera de Rond�nia
+110148 RO S�o Felipe d`Oeste
+110149 RO S�o Francisco do Guapor�
+110150 RO Seringueiras
+110155 RO Teixeir�polis
+110160 RO Theobroma
+110170 RO Urup�
+110175 RO Vale do Anari
+110180 RO Vale do Para�so
+120001 AC Acrel�ndia
+120005 AC Assis Brasil
+120010 AC Brasil�ia
+120013 AC Bujari
+120017 AC Capixaba
+120020 AC Cruzeiro do Sul
+120025 AC Epitaciol�ndia
+120030 AC Feij�
+120032 AC Jord�o
+120033 AC M�ncio Lima
+120034 AC Manoel Urbano
+120035 AC Marechal Thaumaturgo
+120038 AC Pl�cido de Castro
+120039 AC Porto Walter
+120040 AC Rio Branco
+120042 AC Rodrigues Alves
+120043 AC Santa Rosa do Purus
+120045 AC Senador Guiomard
+120050 AC Sena Madureira
+120060 AC Tarauac�
+120070 AC Xapuri
+120080 AC Porto Acre
+130002 AM Alvar�es
+130006 AM Amatur�
+130008 AM Anam�
+130010 AM Anori
+130014 AM Apu�
+130020 AM Atalaia do Norte
+130030 AM Autazes
+130040 AM Barcelos
+130050 AM Barreirinha
+130060 AM Benjamin Constant
+130063 AM Beruri
+130068 AM Boa Vista do Ramos
+130070 AM Boca do Acre
+130080 AM Borba
+130083 AM Caapiranga
+130090 AM Canutama
+130100 AM Carauari
+130110 AM Careiro
+130115 AM Careiro da V�rzea
+130120 AM Coari
+130130 AM Codaj�s
+130140 AM Eirunep�
+130150 AM Envira
+130160 AM Fonte Boa
+130165 AM Guajar�
+130170 AM Humait�
+130180 AM Ipixuna
+130185 AM Iranduba
+130190 AM Itacoatiara
+130195 AM Itamarati
+130200 AM Itapiranga
+130210 AM Japur�
+130220 AM Juru�
+130230 AM Juta�
+130240 AM L�brea
+130250 AM Manacapuru
+130255 AM Manaquiri
+130260 AM Manaus
+130270 AM Manicor�
+130280 AM Mara�
+130290 AM Mau�s
+130300 AM Nhamund�
+130310 AM Nova Olinda do Norte
+130320 AM Novo Air�o
+130330 AM Novo Aripuan�
+130340 AM Parintins
+130350 AM Pauini
+130353 AM Presidente Figueiredo
+130356 AM Rio Preto da Eva
+130360 AM Santa Isabel do Rio Negro
+130370 AM Santo Ant�nio do I��
+130380 AM S�o Gabriel da Cachoeira
+130390 AM S�o Paulo de Oliven�a
+130395 AM S�o Sebasti�o do Uatum�
+130400 AM Silves
+130406 AM Tabatinga
+130410 AM Tapau�
+130420 AM Tef�
+130423 AM Tonantins
+130426 AM Uarini
+130430 AM Urucar�
+130440 AM Urucurituba
+140002 RR Amajari
+140005 RR Alto Alegre
+140010 RR Boa Vista
+140015 RR Bonfim
+140017 RR Cant�
+140020 RR Caracara�
+140023 RR Caroebe
+140028 RR Iracema
+140030 RR Mucaja�
+140040 RR Normandia
+140045 RR Pacaraima
+140047 RR Rorain�polis
+140050 RR S�o Jo�o da Baliza
+140060 RR S�o Luiz
+140070 RR Uiramut�
+150010 PA Abaetetuba
+150013 PA Abel Figueiredo
+150020 PA Acar�
+150030 PA Afu�
+150034 PA �gua Azul do Norte
+150040 PA Alenquer
+150050 PA Almeirim
+150060 PA Altamira
+150070 PA Anaj�s
+150080 PA Ananindeua
+150085 PA Anapu
+150090 PA Augusto Corr�a
+150095 PA Aurora do Par�
+150100 PA Aveiro
+150110 PA Bagre
+150120 PA Bai�o
+150125 PA Bannach
+150130 PA Barcarena
+150140 PA Bel�m
+150145 PA Belterra
+150150 PA Benevides
+150157 PA Bom Jesus do Tocantins
+150160 PA Bonito
+150170 PA Bragan�a
+150172 PA Brasil Novo
+150175 PA Brejo Grande do Araguaia
+150178 PA Breu Branco
+150180 PA Breves
+150190 PA Bujaru
+150195 PA Cachoeira do Piri�
+150200 PA Cachoeira do Arari
+150210 PA Camet�
+150215 PA Cana� dos Caraj�s
+150220 PA Capanema
+150230 PA Capit�o Po�o
+150240 PA Castanhal
+150250 PA Chaves
+150260 PA Colares
+150270 PA Concei��o do Araguaia
+150275 PA Conc�rdia do Par�
+150276 PA Cumaru do Norte
+150277 PA Curion�polis
+150280 PA Curralinho
+150285 PA Curu�
+150290 PA Curu��
+150293 PA Dom Eliseu
+150295 PA Eldorado dos Caraj�s
+150300 PA Faro
+150304 PA Floresta do Araguaia
+150307 PA Garraf�o do Norte
+150309 PA Goian�sia do Par�
+150310 PA Gurup�
+150320 PA Igarap�-A�u
+150330 PA Igarap�-Miri
+150340 PA Inhangapi
+150345 PA Ipixuna do Par�
+150350 PA Irituia
+150360 PA Itaituba
+150370 PA Itupiranga
+150375 PA Jacareacanga
+150380 PA Jacund�
+150390 PA Juruti
+150400 PA Limoeiro do Ajuru
+150405 PA M�e do Rio
+150410 PA Magalh�es Barata
+150420 PA Marab�
+150430 PA Maracan�
+150440 PA Marapanim
+150442 PA Marituba
+150445 PA Medicil�ndia
+150450 PA Melga�o
+150460 PA Mocajuba
+150470 PA Moju
+150480 PA Monte Alegre
+150490 PA Muan�
+150495 PA Nova Esperan�a do Piri�
+150497 PA Nova Ipixuna
+150500 PA Nova Timboteua
+150503 PA Novo Progresso
+150506 PA Novo Repartimento
+150510 PA �bidos
+150520 PA Oeiras do Par�
+150530 PA Oriximin�
+150540 PA Our�m
+150543 PA Ouril�ndia do Norte
+150548 PA Pacaj�
+150549 PA Palestina do Par�
+150550 PA Paragominas
+150553 PA Parauapebas
+150555 PA Pau d`Arco
+150560 PA Peixe-Boi
+150563 PA Pi�arra
+150565 PA Placas
+150570 PA Ponta de Pedras
+150580 PA Portel
+150590 PA Porto de Moz
+150600 PA Prainha
+150610 PA Primavera
+150611 PA Quatipuru
+150613 PA Reden��o
+150616 PA Rio Maria
+150618 PA Rondon do Par�
+150619 PA Rur�polis
+150620 PA Salin�polis
+150630 PA Salvaterra
+150635 PA Santa B�rbara do Par�
+150640 PA Santa Cruz do Arari
+150650 PA Santa Isabel do Par�
+150655 PA Santa Luzia do Par�
+150658 PA Santa Maria das Barreiras
+150660 PA Santa Maria do Par�
+150670 PA Santana do Araguaia
+150680 PA Santar�m
+150690 PA Santar�m Novo
+150700 PA Santo Ant�nio do Tau�
+150710 PA S�o Caetano de Odivelas
+150715 PA S�o Domingos do Araguaia
+150720 PA S�o Domingos do Capim
+150730 PA S�o F�lix do Xingu
+150740 PA S�o Francisco do Par�
+150745 PA S�o Geraldo do Araguaia
+150746 PA S�o Jo�o da Ponta
+150747 PA S�o Jo�o de Pirabas
+150750 PA S�o Jo�o do Araguaia
+150760 PA S�o Miguel do Guam�
+150770 PA S�o Sebasti�o da Boa Vista
+150775 PA Sapucaia
+150780 PA Senador Jos� Porf�rio
+150790 PA Soure
+150795 PA Tail�ndia
+150796 PA Terra Alta
+150797 PA Terra Santa
+150800 PA Tom�-A�u
+150803 PA Tracuateua
+150805 PA Trair�o
+150808 PA Tucum�
+150810 PA Tucuru�
+150812 PA Ulian�polis
+150815 PA Uruar�
+150820 PA Vigia
+150830 PA Viseu
+150835 PA Vit�ria do Xingu
+150840 PA Xinguara
+160005 AP Serra do Navio
+160010 AP Amap�
+160015 AP Pedra Branca do Amapar�
+160020 AP Cal�oene
+160021 AP Cutias
+160023 AP Ferreira Gomes
+160025 AP Itaubal
+160027 AP Laranjal do Jari
+160030 AP Macap�
+160040 AP Mazag�o
+160050 AP Oiapoque
+160053 AP Porto Grande
+160055 AP Pracu�ba
+160060 AP Santana
+160070 AP Tartarugalzinho
+160080 AP Vit�ria do Jari
+170025 TO Abreul�ndia
+170030 TO Aguiarn�polis
+170035 TO Alian�a do Tocantins
+170040 TO Almas
+170070 TO Alvorada
+170100 TO Anan�s
+170105 TO Angico
+170110 TO Aparecida do Rio Negro
+170130 TO Aragominas
+170190 TO Araguacema
+170200 TO Aragua�u
+170210 TO Aragua�na
+170215 TO Araguan�
+170220 TO Araguatins
+170230 TO Arapoema
+170240 TO Arraias
+170255 TO Augustin�polis
+170270 TO Aurora do Tocantins
+170290 TO Axix� do Tocantins
+170300 TO Baba�ul�ndia
+170305 TO Bandeirantes do Tocantins
+170307 TO Barra do Ouro
+170310 TO Barrol�ndia
+170320 TO Bernardo Say�o
+170330 TO Bom Jesus do Tocantins
+170360 TO Brasil�ndia do Tocantins
+170370 TO Brejinho de Nazar�
+170380 TO Buriti do Tocantins
+170382 TO Cachoeirinha
+170384 TO Campos Lindos
+170386 TO Cariri do Tocantins
+170388 TO Carmol�ndia
+170389 TO Carrasco Bonito
+170390 TO Caseara
+170410 TO Centen�rio
+170460 TO Chapada de Areia
+170510 TO Chapada da Natividade
+170550 TO Colinas do Tocantins
+170555 TO Combinado
+170560 TO Concei��o do Tocantins
+170600 TO Couto Magalh�es
+170610 TO Cristal�ndia
+170625 TO Crix�s do Tocantins
+170650 TO Darcin�polis
+170700 TO Dian�polis
+170710 TO Divin�polis do Tocantins
+170720 TO Dois Irm�os do Tocantins
+170730 TO Duer�
+170740 TO Esperantina
+170755 TO F�tima
+170765 TO Figueir�polis
+170770 TO Filad�lfia
+170820 TO Formoso do Araguaia
+170825 TO Fortaleza do Taboc�o
+170830 TO Goianorte
+170900 TO Goiatins
+170930 TO Guara�
+170950 TO Gurupi
+170980 TO Ipueiras
+171050 TO Itacaj�
+171070 TO Itaguatins
+171090 TO Itapiratins
+171110 TO Itapor� do Tocantins
+171150 TO Ja� do Tocantins
+171180 TO Juarina
+171190 TO Lagoa da Confus�o
+171195 TO Lagoa do Tocantins
+171200 TO Lajeado
+171215 TO Lavandeira
+171240 TO Lizarda
+171245 TO Luzin�polis
+171250 TO Marian�polis do Tocantins
+171270 TO Mateiros
+171280 TO Mauril�ndia do Tocantins
+171320 TO Miracema do Tocantins
+171330 TO Miranorte
+171360 TO Monte do Carmo
+171370 TO Monte Santo do Tocantins
+171380 TO Palmeiras do Tocantins
+171395 TO Muricil�ndia
+171420 TO Natividade
+171430 TO Nazar�
+171488 TO Nova Olinda
+171500 TO Nova Rosal�ndia
+171510 TO Novo Acordo
+171515 TO Novo Alegre
+171525 TO Novo Jardim
+171550 TO Oliveira de F�tima
+171570 TO Palmeirante
+171575 TO Palmeir�polis
+171610 TO Para�so do Tocantins
+171620 TO Paran�
+171630 TO Pau d`Arco
+171650 TO Pedro Afonso
+171660 TO Peixe
+171665 TO Pequizeiro
+171670 TO Colm�ia
+171700 TO Pindorama do Tocantins
+171720 TO Piraqu�
+171750 TO Pium
+171780 TO Ponte Alta do Bom Jesus
+171790 TO Ponte Alta do Tocantins
+171800 TO Porto Alegre do Tocantins
+171820 TO Porto Nacional
+171830 TO Praia Norte
+171840 TO Presidente Kennedy
+171845 TO Pugmil
+171850 TO Recursol�ndia
+171855 TO Riachinho
+171865 TO Rio da Concei��o
+171870 TO Rio dos Bois
+171875 TO Rio Sono
+171880 TO Sampaio
+171884 TO Sandol�ndia
+171886 TO Santa F� do Araguaia
+171888 TO Santa Maria do Tocantins
+171889 TO Santa Rita do Tocantins
+171890 TO Santa Rosa do Tocantins
+171900 TO Santa Tereza do Tocantins
+172000 TO Santa Terezinha do Tocantins
+172010 TO S�o Bento do Tocantins
+172015 TO S�o F�lix do Tocantins
+172020 TO S�o Miguel do Tocantins
+172025 TO S�o Salvador do Tocantins
+172030 TO S�o Sebasti�o do Tocantins
+172049 TO S�o Val�rio
+172065 TO Silvan�polis
+172080 TO S�tio Novo do Tocantins
+172085 TO Sucupira
+172090 TO Taguatinga
+172093 TO Taipas do Tocantins
+172097 TO Talism�
+172100 TO Palmas
+172110 TO Tocant�nia
+172120 TO Tocantin�polis
+172125 TO Tupirama
+172130 TO Tupiratins
+172208 TO Wanderl�ndia
+172210 TO Xambio�
+210005 MA A�ail�ndia
+210010 MA Afonso Cunha
+210015 MA �gua Doce do Maranh�o
+210020 MA Alc�ntara
+210030 MA Aldeias Altas
+210040 MA Altamira do Maranh�o
+210043 MA Alto Alegre do Maranh�o
+210047 MA Alto Alegre do Pindar�
+210050 MA Alto Parna�ba
+210055 MA Amap� do Maranh�o
+210060 MA Amarante do Maranh�o
+210070 MA Anajatuba
+210080 MA Anapurus
+210083 MA Apicum-A�u
+210087 MA Araguan�
+210090 MA Araioses
+210095 MA Arame
+210100 MA Arari
+210110 MA Axix�
+210120 MA Bacabal
+210125 MA Bacabeira
+210130 MA Bacuri
+210135 MA Bacurituba
+210140 MA Balsas
+210150 MA Bar�o de Graja�
+210160 MA Barra do Corda
+210170 MA Barreirinhas
+210173 MA Bel�gua
+210177 MA Bela Vista do Maranh�o
+210180 MA Benedito Leite
+210190 MA Bequim�o
+210193 MA Bernardo do Mearim
+210197 MA Boa Vista do Gurupi
+210200 MA Bom Jardim
+210203 MA Bom Jesus das Selvas
+210207 MA Bom Lugar
+210210 MA Brejo
+210215 MA Brejo de Areia
+210220 MA Buriti
+210230 MA Buriti Bravo
+210232 MA Buriticupu
+210235 MA Buritirana
+210237 MA Cachoeira Grande
+210240 MA Cajapi�
+210250 MA Cajari
+210255 MA Campestre do Maranh�o
+210260 MA C�ndido Mendes
+210270 MA Cantanhede
+210275 MA Capinzal do Norte
+210280 MA Carolina
+210290 MA Carutapera
+210300 MA Caxias
+210310 MA Cedral
+210312 MA Central do Maranh�o
+210315 MA Centro do Guilherme
+210317 MA Centro Novo do Maranh�o
+210320 MA Chapadinha
+210325 MA Cidel�ndia
+210330 MA Cod�
+210340 MA Coelho Neto
+210350 MA Colinas
+210355 MA Concei��o do Lago-A�u
+210360 MA Coroat�
+210370 MA Cururupu
+210375 MA Davin�polis
+210380 MA Dom Pedro
+210390 MA Duque Bacelar
+210400 MA Esperantin�polis
+210405 MA Estreito
+210407 MA Feira Nova do Maranh�o
+210408 MA Fernando Falc�o
+210409 MA Formosa da Serra Negra
+210410 MA Fortaleza dos Nogueiras
+210420 MA Fortuna
+210430 MA Godofredo Viana
+210440 MA Gon�alves Dias
+210450 MA Governador Archer
+210455 MA Governador Edison Lob�o
+210460 MA Governador Eug�nio Barros
+210462 MA Governador Luiz Rocha
+210465 MA Governador Newton Bello
+210467 MA Governador Nunes Freire
+210470 MA Gra�a Aranha
+210480 MA Graja�
+210490 MA Guimar�es
+210500 MA Humberto de Campos
+210510 MA Icatu
+210515 MA Igarap� do Meio
+210520 MA Igarap� Grande
+210530 MA Imperatriz
+210535 MA Itaipava do Graja�
+210540 MA Itapecuru Mirim
+210542 MA Itinga do Maranh�o
+210545 MA Jatob�
+210547 MA Jenipapo dos Vieiras
+210550 MA Jo�o Lisboa
+210560 MA Josel�ndia
+210565 MA Junco do Maranh�o
+210570 MA Lago da Pedra
+210580 MA Lago do Junco
+210590 MA Lago Verde
+210592 MA Lagoa do Mato
+210594 MA Lago dos Rodrigues
+210596 MA Lagoa Grande do Maranh�o
+210598 MA Lajeado Novo
+210600 MA Lima Campos
+210610 MA Loreto
+210620 MA Lu�s Domingues
+210630 MA Magalh�es de Almeida
+210632 MA Maraca�um�
+210635 MA Maraj� do Sena
+210637 MA Maranh�ozinho
+210640 MA Mata Roma
+210650 MA Matinha
+210660 MA Mat�es
+210663 MA Mat�es do Norte
+210667 MA Milagres do Maranh�o
+210670 MA Mirador
+210675 MA Miranda do Norte
+210680 MA Mirinzal
+210690 MA Mon��o
+210700 MA Montes Altos
+210710 MA Morros
+210720 MA Nina Rodrigues
+210725 MA Nova Colinas
+210730 MA Nova Iorque
+210735 MA Nova Olinda do Maranh�o
+210740 MA Olho d`�gua das Cunh�s
+210745 MA Olinda Nova do Maranh�o
+210750 MA Pa�o do Lumiar
+210760 MA Palmeir�ndia
+210770 MA Paraibano
+210780 MA Parnarama
+210790 MA Passagem Franca
+210800 MA Pastos Bons
+210805 MA Paulino Neves
+210810 MA Paulo Ramos
+210820 MA Pedreiras
+210825 MA Pedro do Ros�rio
+210830 MA Penalva
+210840 MA Peri Mirim
+210845 MA Peritor�
+210850 MA Pindar�-Mirim
+210860 MA Pinheiro
+210870 MA Pio XII
+210880 MA Pirapemas
+210890 MA Po��o de Pedras
+210900 MA Porto Franco
+210905 MA Porto Rico do Maranh�o
+210910 MA Presidente Dutra
+210920 MA Presidente Juscelino
+210923 MA Presidente M�dici
+210927 MA Presidente Sarney
+210930 MA Presidente Vargas
+210940 MA Primeira Cruz
+210945 MA Raposa
+210950 MA Riach�o
+210955 MA Ribamar Fiquene
+210960 MA Ros�rio
+210970 MA Samba�ba
+210975 MA Santa Filomena do Maranh�o
+210980 MA Santa Helena
+210990 MA Santa In�s
+211000 MA Santa Luzia
+211003 MA Santa Luzia do Paru�
+211010 MA Santa Quit�ria do Maranh�o
+211020 MA Santa Rita
+211023 MA Santana do Maranh�o
+211027 MA Santo Amaro do Maranh�o
+211030 MA Santo Ant�nio dos Lopes
+211040 MA S�o Benedito do Rio Preto
+211050 MA S�o Bento
+211060 MA S�o Bernardo
+211065 MA S�o Domingos do Azeit�o
+211070 MA S�o Domingos do Maranh�o
+211080 MA S�o F�lix de Balsas
+211085 MA S�o Francisco do Brej�o
+211090 MA S�o Francisco do Maranh�o
+211100 MA S�o Jo�o Batista
+211102 MA S�o Jo�o do Car�
+211105 MA S�o Jo�o do Para�so
+211107 MA S�o Jo�o do Soter
+211110 MA S�o Jo�o dos Patos
+211120 MA S�o Jos� de Ribamar
+211125 MA S�o Jos� dos Bas�lios
+211130 MA S�o Lu�s
+211140 MA S�o Lu�s Gonzaga do Maranh�o
+211150 MA S�o Mateus do Maranh�o
+211153 MA S�o Pedro da �gua Branca
+211157 MA S�o Pedro dos Crentes
+211160 MA S�o Raimundo das Mangabeiras
+211163 MA S�o Raimundo do Doca Bezerra
+211167 MA S�o Roberto
+211170 MA S�o Vicente Ferrer
+211172 MA Satubinha
+211174 MA Senador Alexandre Costa
+211176 MA Senador La Rocque
+211178 MA Serrano do Maranh�o
+211180 MA S�tio Novo
+211190 MA Sucupira do Norte
+211195 MA Sucupira do Riach�o
+211200 MA Tasso Fragoso
+211210 MA Timbiras
+211220 MA Timon
+211223 MA Trizidela do Vale
+211227 MA Tufil�ndia
+211230 MA Tuntum
+211240 MA Turia�u
+211245 MA Turil�ndia
+211250 MA Tut�ia
+211260 MA Urbano Santos
+211270 MA Vargem Grande
+211280 MA Viana
+211285 MA Vila Nova dos Mart�rios
+211290 MA Vit�ria do Mearim
+211300 MA Vitorino Freire
+211400 MA Z� Doca
+220005 PI Acau�
+220010 PI Agricol�ndia
+220020 PI �gua Branca
+220025 PI Alagoinha do Piau�
+220027 PI Alegrete do Piau�
+220030 PI Alto Long�
+220040 PI Altos
+220045 PI Alvorada do Gurgu�ia
+220050 PI Amarante
+220060 PI Angical do Piau�
+220070 PI An�sio de Abreu
+220080 PI Ant�nio Almeida
+220090 PI Aroazes
+220100 PI Arraial
+220105 PI Assun��o do Piau�
+220110 PI Avelino Lopes
+220115 PI Baixa Grande do Ribeiro
+220117 PI Barra d`Alc�ntara
+220120 PI Barras
+220130 PI Barreiras do Piau�
+220140 PI Barro Duro
+220150 PI Batalha
+220155 PI Bela Vista do Piau�
+220157 PI Bel�m do Piau�
+220160 PI Beneditinos
+220170 PI Bertol�nia
+220173 PI Bet�nia do Piau�
+220177 PI Boa Hora
+220180 PI Bocaina
+220190 PI Bom Jesus
+220191 PI Bom Princ�pio do Piau�
+220192 PI Bonfim do Piau�
+220194 PI Boqueir�o do Piau�
+220196 PI Brasileira
+220198 PI Brejo do Piau�
+220200 PI Buriti dos Lopes
+220202 PI Buriti dos Montes
+220205 PI Cabeceiras do Piau�
+220207 PI Cajazeiras do Piau�
+220208 PI Cajueiro da Praia
+220209 PI Caldeir�o Grande do Piau�
+220210 PI Campinas do Piau�
+220211 PI Campo Alegre do Fidalgo
+220213 PI Campo Grande do Piau�
+220217 PI Campo Largo do Piau�
+220220 PI Campo Maior
+220225 PI Canavieira
+220230 PI Canto do Buriti
+220240 PI Capit�o de Campos
+220245 PI Capit�o Gerv�sio Oliveira
+220250 PI Caracol
+220253 PI Cara�bas do Piau�
+220255 PI Caridade do Piau�
+220260 PI Castelo do Piau�
+220265 PI Caxing�
+220270 PI Cocal
+220271 PI Cocal de Telha
+220272 PI Cocal dos Alves
+220273 PI Coivaras
+220275 PI Col�nia do Gurgu�ia
+220277 PI Col�nia do Piau�
+220280 PI Concei��o do Canind�
+220285 PI Coronel Jos� Dias
+220290 PI Corrente
+220300 PI Cristal�ndia do Piau�
+220310 PI Cristino Castro
+220320 PI Curimat�
+220323 PI Currais
+220325 PI Curralinhos
+220327 PI Curral Novo do Piau�
+220330 PI Demerval Lob�o
+220335 PI Dirceu Arcoverde
+220340 PI Dom Expedito Lopes
+220342 PI Domingos Mour�o
+220345 PI Dom Inoc�ncio
+220350 PI Elesb�o Veloso
+220360 PI Eliseu Martins
+220370 PI Esperantina
+220375 PI Fartura do Piau�
+220380 PI Flores do Piau�
+220385 PI Floresta do Piau�
+220390 PI Floriano
+220400 PI Francin�polis
+220410 PI Francisco Ayres
+220415 PI Francisco Macedo
+220420 PI Francisco Santos
+220430 PI Fronteiras
+220435 PI Geminiano
+220440 PI Gilbu�s
+220450 PI Guadalupe
+220455 PI Guaribas
+220460 PI Hugo Napole�o
+220465 PI Ilha Grande
+220470 PI Inhuma
+220480 PI Ipiranga do Piau�
+220490 PI Isa�as Coelho
+220500 PI Itain�polis
+220510 PI Itaueira
+220515 PI Jacobina do Piau�
+220520 PI Jaic�s
+220525 PI Jardim do Mulato
+220527 PI Jatob� do Piau�
+220530 PI Jerumenha
+220535 PI Jo�o Costa
+220540 PI Joaquim Pires
+220545 PI Joca Marques
+220550 PI Jos� de Freitas
+220551 PI Juazeiro do Piau�
+220552 PI J�lio Borges
+220553 PI Jurema
+220554 PI Lagoinha do Piau�
+220555 PI Lagoa Alegre
+220556 PI Lagoa do Barro do Piau�
+220557 PI Lagoa de S�o Francisco
+220558 PI Lagoa do Piau�
+220559 PI Lagoa do S�tio
+220560 PI Landri Sales
+220570 PI Lu�s Correia
+220580 PI Luzil�ndia
+220585 PI Madeiro
+220590 PI Manoel Em�dio
+220595 PI Marcol�ndia
+220600 PI Marcos Parente
+220605 PI Massap� do Piau�
+220610 PI Matias Ol�mpio
+220620 PI Miguel Alves
+220630 PI Miguel Le�o
+220635 PI Milton Brand�o
+220640 PI Monsenhor Gil
+220650 PI Monsenhor Hip�lito
+220660 PI Monte Alegre do Piau�
+220665 PI Morro Cabe�a no Tempo
+220667 PI Morro do Chap�u do Piau�
+220669 PI Murici dos Portelas
+220670 PI Nazar� do Piau�
+220675 PI Nossa Senhora de Nazar�
+220680 PI Nossa Senhora dos Rem�dios
+220690 PI Novo Oriente do Piau�
+220695 PI Novo Santo Ant�nio
+220700 PI Oeiras
+220710 PI Olho d`�gua do Piau�
+220720 PI Padre Marcos
+220730 PI Paes Landim
+220735 PI Paje� do Piau�
+220740 PI Palmeira do Piau�
+220750 PI Palmeirais
+220755 PI Paquet�
+220760 PI Parnagu�
+220770 PI Parna�ba
+220775 PI Passagem Franca do Piau�
+220777 PI Patos do Piau�
+220779 PI Pau d`Arco do Piau�
+220780 PI Paulistana
+220785 PI Pavussu
+220790 PI Pedro II
+220793 PI Pedro Laurentino
+220795 PI Nova Santa Rita
+220800 PI Picos
+220810 PI Pimenteiras
+220820 PI Pio IX
+220830 PI Piracuruca
+220840 PI Piripiri
+220850 PI Porto
+220855 PI Porto Alegre do Piau�
+220860 PI Prata do Piau�
+220865 PI Queimada Nova
+220870 PI Reden��o do Gurgu�ia
+220880 PI Regenera��o
+220885 PI Riacho Frio
+220887 PI Ribeira do Piau�
+220890 PI Ribeiro Gon�alves
+220900 PI Rio Grande do Piau�
+220910 PI Santa Cruz do Piau�
+220915 PI Santa Cruz dos Milagres
+220920 PI Santa Filomena
+220930 PI Santa Luz
+220935 PI Santana do Piau�
+220937 PI Santa Rosa do Piau�
+220940 PI Santo Ant�nio de Lisboa
+220945 PI Santo Ant�nio dos Milagres
+220950 PI Santo In�cio do Piau�
+220955 PI S�o Braz do Piau�
+220960 PI S�o F�lix do Piau�
+220965 PI S�o Francisco de Assis do  Piau�
+220970 PI S�o Francisco do Piau�
+220975 PI S�o Gon�alo do Gurgu�ia
+220980 PI S�o Gon�alo do Piau�
+220985 PI S�o Jo�o da Canabrava
+220987 PI S�o Jo�o da Fronteira
+220990 PI S�o Jo�o da Serra
+220995 PI S�o Jo�o da Varjota
+220997 PI S�o Jo�o do Arraial
+221000 PI S�o Jo�o do Piau�
+221005 PI S�o Jos� do Divino
+221010 PI S�o Jos� do Peixe
+221020 PI S�o Jos� do Piau�
+221030 PI S�o Juli�o
+221035 PI S�o Louren�o do Piau�
+221037 PI S�o Luis do Piau�
+221038 PI S�o Miguel da Baixa Grande
+221039 PI S�o Miguel do Fidalgo
+221040 PI S�o Miguel do Tapuio
+221050 PI S�o Pedro do Piau�
+221060 PI S�o Raimundo Nonato
+221062 PI Sebasti�o Barros
+221063 PI Sebasti�o Leal
+221065 PI Sigefredo Pacheco
+221070 PI Sim�es
+221080 PI Simpl�cio Mendes
+221090 PI Socorro do Piau�
+221093 PI Sussuapara
+221095 PI Tamboril do Piau�
+221097 PI Tanque do Piau�
+221100 PI Teresina
+221110 PI Uni�o
+221120 PI Uru�u�
+221130 PI Valen�a do Piau�
+221135 PI V�rzea Branca
+221140 PI V�rzea Grande
+221150 PI Vera Mendes
+221160 PI Vila Nova do Piau�
+221170 PI Wall Ferraz
+230010 CE Abaiara
+230015 CE Acarape
+230020 CE Acara�
+230030 CE Acopiara
+230040 CE Aiuaba
+230050 CE Alc�ntaras
+230060 CE Altaneira
+230070 CE Alto Santo
+230075 CE Amontada
+230080 CE Antonina do Norte
+230090 CE Apuiar�s
+230100 CE Aquiraz
+230110 CE Aracati
+230120 CE Aracoiaba
+230125 CE Ararend�
+230130 CE Araripe
+230140 CE Aratuba
+230150 CE Arneiroz
+230160 CE Assar�
+230170 CE Aurora
+230180 CE Baixio
+230185 CE Banabui�
+230190 CE Barbalha
+230195 CE Barreira
+230200 CE Barro
+230205 CE Barroquinha
+230210 CE Baturit�
+230220 CE Beberibe
+230230 CE Bela Cruz
+230240 CE Boa Viagem
+230250 CE Brejo Santo
+230260 CE Camocim
+230270 CE Campos Sales
+230280 CE Canind�
+230290 CE Capistrano
+230300 CE Caridade
+230310 CE Carir�
+230320 CE Cariria�u
+230330 CE Cari�s
+230340 CE Carnaubal
+230350 CE Cascavel
+230360 CE Catarina
+230365 CE Catunda
+230370 CE Caucaia
+230380 CE Cedro
+230390 CE Chaval
+230393 CE Chor�
+230395 CE Chorozinho
+230400 CE Corea�
+230410 CE Crate�s
+230420 CE Crato
+230423 CE Croat�
+230425 CE Cruz
+230426 CE Deputado Irapuan Pinheiro
+230427 CE Erer�
+230428 CE Eus�bio
+230430 CE Farias Brito
+230435 CE Forquilha
+230440 CE Fortaleza
+230445 CE Fortim
+230450 CE Frecheirinha
+230460 CE General Sampaio
+230465 CE Gra�a
+230470 CE Granja
+230480 CE Granjeiro
+230490 CE Groa�ras
+230495 CE Guai�ba
+230500 CE Guaraciaba do Norte
+230510 CE Guaramiranga
+230520 CE Hidrol�ndia
+230523 CE Horizonte
+230526 CE Ibaretama
+230530 CE Ibiapina
+230533 CE Ibicuitinga
+230535 CE Icapu�
+230540 CE Ic�
+230550 CE Iguatu
+230560 CE Independ�ncia
+230565 CE Ipaporanga
+230570 CE Ipaumirim
+230580 CE Ipu
+230590 CE Ipueiras
+230600 CE Iracema
+230610 CE Irau�uba
+230620 CE Itai�aba
+230625 CE Itaitinga
+230630 CE Itapag�
+230640 CE Itapipoca
+230650 CE Itapi�na
+230655 CE Itarema
+230660 CE Itatira
+230670 CE Jaguaretama
+230680 CE Jaguaribara
+230690 CE Jaguaribe
+230700 CE Jaguaruana
+230710 CE Jardim
+230720 CE Jati
+230725 CE Jijoca de Jericoacoara
+230730 CE Juazeiro do Norte
+230740 CE Juc�s
+230750 CE Lavras da Mangabeira
+230760 CE Limoeiro do Norte
+230763 CE Madalena
+230765 CE Maracana�
+230770 CE Maranguape
+230780 CE Marco
+230790 CE Martin�pole
+230800 CE Massap�
+230810 CE Mauriti
+230820 CE Meruoca
+230830 CE Milagres
+230835 CE Milh�
+230837 CE Mira�ma
+230840 CE Miss�o Velha
+230850 CE Momba�a
+230860 CE Monsenhor Tabosa
+230870 CE Morada Nova
+230880 CE Mora�jo
+230890 CE Morrinhos
+230900 CE Mucambo
+230910 CE Mulungu
+230920 CE Nova Olinda
+230930 CE Nova Russas
+230940 CE Novo Oriente
+230945 CE Ocara
+230950 CE Or�s
+230960 CE Pacajus
+230970 CE Pacatuba
+230980 CE Pacoti
+230990 CE Pacuj�
+231000 CE Palhano
+231010 CE Palm�cia
+231020 CE Paracuru
+231025 CE Paraipaba
+231030 CE Parambu
+231040 CE Paramoti
+231050 CE Pedra Branca
+231060 CE Penaforte
+231070 CE Pentecoste
+231080 CE Pereiro
+231085 CE Pindoretama
+231090 CE Piquet Carneiro
+231095 CE Pires Ferreira
+231100 CE Poranga
+231110 CE Porteiras
+231120 CE Potengi
+231123 CE Potiretama
+231126 CE Quiterian�polis
+231130 CE Quixad�
+231135 CE Quixel�
+231140 CE Quixeramobim
+231150 CE Quixer�
+231160 CE Reden��o
+231170 CE Reriutaba
+231180 CE Russas
+231190 CE Saboeiro
+231195 CE Salitre
+231200 CE Santana do Acara�
+231210 CE Santana do Cariri
+231220 CE Santa Quit�ria
+231230 CE S�o Benedito
+231240 CE S�o Gon�alo do Amarante
+231250 CE S�o Jo�o do Jaguaribe
+231260 CE S�o Lu�s do Curu
+231270 CE Senador Pompeu
+231280 CE Senador S�
+231290 CE Sobral
+231300 CE Solon�pole
+231310 CE Tabuleiro do Norte
+231320 CE Tamboril
+231325 CE Tarrafas
+231330 CE Tau�
+231335 CE Teju�uoca
+231340 CE Tiangu�
+231350 CE Trairi
+231355 CE Tururu
+231360 CE Ubajara
+231370 CE Umari
+231375 CE Umirim
+231380 CE Uruburetama
+231390 CE Uruoca
+231395 CE Varjota
+231400 CE V�rzea Alegre
+231410 CE Vi�osa do Cear�
+240010 RN Acari
+240020 RN Aau
+240030 RN Afonso Bezerra
+240040 RN agua Nova
+240050 RN Alexandria
+240060 RN Almino Afonso
+240070 RN Alto do Rodrigues
+240080 RN Angicos
+240090 RN Antanio Martins
+240100 RN Apodi
+240110 RN Areia Branca
+240120 RN Aras
+240130 RN Augusto Severo
+240140 RN Baaa Formosa
+240145 RN Baraana
+240150 RN Barcelona
+240160 RN Bento Fernandes
+240165 RN Boda
+240170 RN Bom Jesus
+240180 RN Brejinho
+240185 RN Caiaara do Norte
+240190 RN Caiaara do Rio do Vento
+240200 RN Caica
+240210 RN Campo Redondo
+240220 RN Canguaretama
+240230 RN Caraabas
+240240 RN Carnaaba dos Dantas
+240250 RN Carnaubais
+240260 RN Ceara-Mirim
+240270 RN Cerro Cora
+240280 RN Coronel Ezequiel
+240290 RN Coronel Joao Pessoa
+240300 RN Cruzeta
+240310 RN Currais Novos
+240320 RN Doutor Severiano
+240325 RN Parnamirim
+240330 RN Encanto
+240340 RN Equador
+240350 RN Esparito Santo
+240360 RN Extremoz
+240370 RN Felipe Guerra
+240375 RN Fernando Pedroza
+240380 RN Florania
+240390 RN Francisco Dantas
+240400 RN Frutuoso Gomes
+240410 RN Galinhos
+240420 RN Goianinha
+240430 RN Governador Dix-Sept Rosado
+240440 RN Grossos
+240450 RN Guamara
+240460 RN Ielmo Marinho
+240470 RN Ipanguaau
+240480 RN Ipueira
+240485 RN Itaja
+240490 RN Itaa
+240500 RN Jaaana
+240510 RN Jandaara
+240520 RN Janduas
+240530 RN Januario Cicco
+240540 RN Japi
+240550 RN Jardim de Angicos
+240560 RN Jardim de Piranhas
+240570 RN Jardim do Serida
+240580 RN Joao Camara
+240590 RN Joao Dias
+240600 RN Josa da Penha
+240610 RN Jucurutu
+240615 RN Jundia
+240620 RN Lagoa d`Anta
+240630 RN Lagoa de Pedras
+240640 RN Lagoa de Velhos
+240650 RN Lagoa Nova
+240660 RN Lagoa Salgada
+240670 RN Lajes
+240680 RN Lajes Pintadas
+240690 RN Lucracia
+240700 RN Luas Gomes
+240710 RN Macaaba
+240720 RN Macau
+240725 RN Major Sales
+240730 RN Marcelino Vieira
+240740 RN Martins
+240750 RN Maxaranguape
+240760 RN Messias Targino
+240770 RN Montanhas
+240780 RN Monte Alegre
+240790 RN Monte das Gameleiras
+240800 RN Mossora
+240810 RN Natal
+240820 RN Nasia Floresta
+240830 RN Nova Cruz
+240840 RN Olho-d`agua do Borges
+240850 RN Ouro Branco
+240860 RN Parana
+240870 RN Paraa
+240880 RN Parazinho
+240890 RN Parelhas
+240895 RN Rio do Fogo
+240910 RN Passa e Fica
+240920 RN Passagem
+240930 RN Patu
+240933 RN Santa Maria
+240940 RN Pau dos Ferros
+240950 RN Pedra Grande
+240960 RN Pedra Preta
+240970 RN Pedro Avelino
+240980 RN Pedro Velho
+240990 RN Pendancias
+241000 RN Pilaes
+241010 RN Poao Branco
+241020 RN Portalegre
+241025 RN Porto do Mangue
+241030 RN Presidente Juscelino
+241040 RN Pureza
+241050 RN Rafael Fernandes
+241060 RN Rafael Godeiro
+241070 RN Riacho da Cruz
+241080 RN Riacho de Santana
+241090 RN Riachuelo
+241100 RN Rodolfo Fernandes
+241105 RN Tibau
+241110 RN Ruy Barbosa
+241120 RN Santa Cruz
+241140 RN Santana do Matos
+241142 RN Santana do Serida
+241150 RN Santo Antonio
+241160 RN Sao Bento do Norte
+241170 RN Sao Bento do Traira
+241180 RN Sao Fernando
+241190 RN Sao Francisco do Oeste
+241200 RN Sao Gonaalo do Amarante
+241210 RN Sao Joao do Sabugi
+241220 RN Sao Josa de Mipibu
+241230 RN Sao Josa do Campestre
+241240 RN Sao Josa do Serida
+241250 RN Sao Miguel
+241255 RN Sao Miguel do Gostoso
+241260 RN Sao Paulo do Potengi
+241270 RN Sao Pedro
+241280 RN Sao Rafael
+241290 RN Sao Toma
+241300 RN Sao Vicente
+241310 RN Senador Elai de Souza
+241320 RN Senador Georgino Avelino
+241330 RN Serra de Sao Bento
+241335 RN Serra do Mel
+241340 RN Serra Negra do Norte
+241350 RN Serrinha
+241355 RN Serrinha dos Pintos
+241360 RN Severiano Melo
+241370 RN Satio Novo
+241380 RN Taboleiro Grande
+241390 RN Taipu
+241400 RN Tangara
+241410 RN Tenente Ananias
+241415 RN Tenente Laurentino Cruz
+241420 RN Tibau do Sul
+241430 RN Timbaaba dos Batistas
+241440 RN Touros
+241445 RN Triunfo Potiguar
+241450 RN Umarizal
+241460 RN Upanema
+241470 RN Varzea
+241475 RN Venha-Ver
+241480 RN Vera Cruz
+241490 RN Viaosa
+241500 RN Vila Flor
+250010 PB agua Branca
+250020 PB Aguiar
+250030 PB Alagoa Grande
+250040 PB Alagoa Nova
+250050 PB Alagoinha
+250053 PB Alcantil
+250057 PB Algodao de Jandaara
+250060 PB Alhandra
+250070 PB Sao Joao do Rio do Peixe
+250073 PB Amparo
+250077 PB Aparecida
+250080 PB Araaagi
+250090 PB Arara
+250100 PB Araruna
+250110 PB Areia
+250115 PB Areia de Baraanas
+250120 PB Areial
+250130 PB Aroeiras
+250135 PB Assunaao
+250140 PB Baaa da Traiaao
+250150 PB Bananeiras
+250153 PB Baraana
+250157 PB Barra de Santana
+250160 PB Barra de Santa Rosa
+250170 PB Barra de Sao Miguel
+250180 PB Bayeux
+250190 PB Belam
+250200 PB Belam do Brejo do Cruz
+250205 PB Bernardino Batista
+250210 PB Boa Ventura
+250215 PB Boa Vista
+250220 PB Bom Jesus
+250230 PB Bom Sucesso
+250240 PB Bonito de Santa Fa
+250250 PB Boqueirao
+250260 PB Igaracy
+250270 PB Borborema
+250280 PB Brejo do Cruz
+250290 PB Brejo dos Santos
+250300 PB Caapora
+250310 PB Cabaceiras
+250320 PB Cabedelo
+250330 PB Cachoeira dos andios
+250340 PB Cacimba de Areia
+250350 PB Cacimba de Dentro
+250355 PB Cacimbas
+250360 PB Cai�ara
+250370 PB Cajazeiras
+250375 PB Cajazeirinhas
+250380 PB Caldas Brand�o
+250390 PB Camala�
+250400 PB Campina Grande
+250403 PB Capim
+250407 PB Cara�bas
+250410 PB Carrapateira
+250415 PB Casserengue
+250420 PB Catingueira
+250430 PB Catol� do Rocha
+250435 PB Caturit�
+250440 PB Concei��o
+250450 PB Condado
+250460 PB Conde
+250470 PB Congo
+250480 PB Coremas
+250485 PB Coxixola
+250490 PB Cruz do Esp�rito Santo
+250500 PB Cubati
+250510 PB Cuit�
+250520 PB Cuitegi
+250523 PB Cuit� de Mamanguape
+250527 PB Curral de Cima
+250530 PB Curral Velho
+250535 PB Dami�o
+250540 PB Desterro
+250550 PB Vista Serrana
+250560 PB Diamante
+250570 PB Dona In�s
+250580 PB Duas Estradas
+250590 PB Emas
+250600 PB Esperan�a
+250610 PB Fagundes
+250620 PB Frei Martinho
+250625 PB Gado Bravo
+250630 PB Guarabira
+250640 PB Gurinh�m
+250650 PB Gurj�o
+250660 PB Ibiara
+250670 PB Imaculada
+250680 PB Ing�
+250690 PB Itabaiana
+250700 PB Itaporanga
+250710 PB Itapororoca
+250720 PB Itatuba
+250730 PB Jacara�
+250740 PB Jeric�
+250750 PB Jo�o Pessoa
+250760 PB Juarez T�vora
+250770 PB Juazeirinho
+250780 PB Junco do Serid�
+250790 PB Juripiranga
+250800 PB Juru
+250810 PB Lagoa
+250820 PB Lagoa de Dentro
+250830 PB Lagoa Seca
+250840 PB Lastro
+250850 PB Livramento
+250855 PB Logradouro
+250860 PB Lucena
+250870 PB M�e d`�gua
+250880 PB Malta
+250890 PB Mamanguape
+250900 PB Mana�ra
+250905 PB Marca��o
+250910 PB Mari
+250915 PB Mariz�polis
+250920 PB Massaranduba
+250930 PB Mataraca
+250933 PB Matinhas
+250937 PB Mato Grosso
+250939 PB Matur�ia
+250940 PB Mogeiro
+250950 PB Montadas
+250960 PB Monte Horebe
+250970 PB Monteiro
+250980 PB Mulungu
+250990 PB Natuba
+251000 PB Nazarezinho
+251010 PB Nova Floresta
+251020 PB Nova Olinda
+251030 PB Nova Palmeira
+251040 PB Olho d`�gua
+251050 PB Olivedos
+251060 PB Ouro Velho
+251065 PB Parari
+251070 PB Passagem
+251080 PB Patos
+251090 PB Paulista
+251100 PB Pedra Branca
+251110 PB Pedra Lavrada
+251120 PB Pedras de Fogo
+251130 PB Pianc�
+251140 PB Picu�
+251150 PB Pilar
+251160 PB Pil�es
+251170 PB Pil�ezinhos
+251180 PB Pirpirituba
+251190 PB Pitimbu
+251200 PB Pocinhos
+251203 PB Po�o Dantas
+251207 PB Po�o de Jos� de Moura
+251210 PB Pombal
+251220 PB Prata
+251230 PB Princesa Isabel
+251240 PB Puxinan�
+251250 PB Queimadas
+251260 PB Quixab�
+251270 PB Rem�gio
+251272 PB Pedro R�gis
+251274 PB Riach�o
+251275 PB Riach�o do Bacamarte
+251276 PB Riach�o do Po�o
+251278 PB Riacho de Santo Ant�nio
+251280 PB Riacho dos Cavalos
+251290 PB Rio Tinto
+251300 PB Salgadinho
+251310 PB Salgado de S�o F�lix
+251315 PB Santa Cec�lia
+251320 PB Santa Cruz
+251330 PB Santa Helena
+251335 PB Santa In�s
+251340 PB Santa Luzia
+251350 PB Santana de Mangueira
+251360 PB Santana dos Garrotes
+251365 PB Joca Claudino
+251370 PB Santa Rita
+251380 PB Santa Teresinha
+251385 PB Santo Andr�
+251390 PB S�o Bento
+251392 PB S�o Bentinho
+251394 PB S�o Domingos do Cariri
+251396 PB S�o Domingos
+251398 PB S�o Francisco
+251400 PB S�o Jo�o do Cariri
+251410 PB S�o Jo�o do Tigre
+251420 PB S�o Jos� da Lagoa Tapada
+251430 PB S�o Jos� de Caiana
+251440 PB S�o Jos� de Espinharas
+251445 PB S�o Jos� dos Ramos
+251450 PB S�o Jos� de Piranhas
+251455 PB S�o Jos� de Princesa
+251460 PB S�o Jos� do Bonfim
+251465 PB S�o Jos� do Brejo do Cruz
+251470 PB S�o Jos� do Sabugi
+251480 PB S�o Jos� dos Cordeiros
+251490 PB S�o Mamede
+251500 PB S�o Miguel de Taipu
+251510 PB S�o Sebasti�o de Lagoa de  Ro�a
+251520 PB S�o Sebasti�o do Umbuzeiro
+251530 PB Sap�
+251540 PB Serid�
+251550 PB Serra Branca
+251560 PB Serra da Raiz
+251570 PB Serra Grande
+251580 PB Serra Redonda
+251590 PB Serraria
+251593 PB Sert�ozinho
+251597 PB Sobrado
+251600 PB Sol�nea
+251610 PB Soledade
+251615 PB Soss�go
+251620 PB Sousa
+251630 PB Sum�
+251640 PB Tacima
+251650 PB Tapero�
+251660 PB Tavares
+251670 PB Teixeira
+251675 PB Ten�rio
+251680 PB Triunfo
+251690 PB Uira�na
+251700 PB Umbuzeiro
+251710 PB V�rzea
+251720 PB Vieir�polis
+251740 PB Zabel�
+260005 PE Abreu e Lima
+260010 PE Afogados da Ingazeira
+260020 PE Afr�nio
+260030 PE Agrestina
+260040 PE �gua Preta
+260050 PE �guas Belas
+260060 PE Alagoinha
+260070 PE Alian�a
+260080 PE Altinho
+260090 PE Amaraji
+260100 PE Angelim
+260105 PE Ara�oiaba
+260110 PE Araripina
+260120 PE Arcoverde
+260130 PE Barra de Guabiraba
+260140 PE Barreiros
+260150 PE Bel�m de Maria
+260160 PE Bel�m de S�o Francisco
+260170 PE Belo Jardim
+260180 PE Bet�nia
+260190 PE Bezerros
+260200 PE Bodoc�
+260210 PE Bom Conselho
+260220 PE Bom Jardim
+260230 PE Bonito
+260240 PE Brej�o
+260250 PE Brejinho
+260260 PE Brejo da Madre de Deus
+260270 PE Buenos Aires
+260280 PE Bu�que
+260290 PE Cabo de Santo Agostinho
+260300 PE Cabrob�
+260310 PE Cachoeirinha
+260320 PE Caet�s
+260330 PE Cal�ado
+260340 PE Calumbi
+260345 PE Camaragibe
+260350 PE Camocim de S�o F�lix
+260360 PE Camutanga
+260370 PE Canhotinho
+260380 PE Capoeiras
+260390 PE Carna�ba
+260392 PE Carnaubeira da Penha
+260400 PE Carpina
+260410 PE Caruaru
+260415 PE Casinhas
+260420 PE Catende
+260430 PE Cedro
+260440 PE Ch� de Alegria
+260450 PE Ch� Grande
+260460 PE Condado
+260470 PE Correntes
+260480 PE Cort�s
+260490 PE Cumaru
+260500 PE Cupira
+260510 PE Cust�dia
+260515 PE Dormentes
+260520 PE Escada
+260530 PE Exu
+260540 PE Feira Nova
+260545 PE Fernando de Noronha
+260550 PE Ferreiros
+260560 PE Flores
+260570 PE Floresta
+260580 PE Frei Miguelinho
+260590 PE Gameleira
+260600 PE Garanhuns
+260610 PE Gl�ria do Goit�
+260620 PE Goiana
+260630 PE Granito
+260640 PE Gravat�
+260650 PE Iati
+260660 PE Ibimirim
+260670 PE Ibirajuba
+260680 PE Igarassu
+260690 PE Iguaraci
+260700 PE Inaj�
+260710 PE Ingazeira
+260720 PE Ipojuca
+260730 PE Ipubi
+260740 PE Itacuruba
+260750 PE Ita�ba
+260760 PE Ilha de Itamarac�
+260765 PE Itamb�
+260770 PE Itapetim
+260775 PE Itapissuma
+260780 PE Itaquitinga
+260790 PE Jaboat�o dos Guararapes
+260795 PE Jaqueira
+260800 PE Jata�ba
+260805 PE Jatob�
+260810 PE Jo�o Alfredo
+260820 PE Joaquim Nabuco
+260825 PE Jucati
+260830 PE Jupi
+260840 PE Jurema
+260845 PE Lagoa do Carro
+260850 PE Lagoa do Itaenga
+260860 PE Lagoa do Ouro
+260870 PE Lagoa dos Gatos
+260875 PE Lagoa Grande
+260880 PE Lajedo
+260890 PE Limoeiro
+260900 PE Macaparana
+260910 PE Machados
+260915 PE Manari
+260920 PE Maraial
+260930 PE Mirandiba
+260940 PE Moreno
+260950 PE Nazar� da Mata
+260960 PE Olinda
+260970 PE Orob�
+260980 PE Oroc�
+260990 PE Ouricuri
+261000 PE Palmares
+261010 PE Palmeirina
+261020 PE Panelas
+261030 PE Paranatama
+261040 PE Parnamirim
+261050 PE Passira
+261060 PE Paudalho
+261070 PE Paulista
+261080 PE Pedra
+261090 PE Pesqueira
+261100 PE Petrol�ndia
+261110 PE Petrolina
+261120 PE Po��o
+261130 PE Pombos
+261140 PE Primavera
+261150 PE Quipap�
+261153 PE Quixaba
+261160 PE Recife
+261170 PE Riacho das Almas
+261180 PE Ribeir�o
+261190 PE Rio Formoso
+261200 PE Sair�
+261210 PE Salgadinho
+261220 PE Salgueiro
+261230 PE Salo�
+261240 PE Sanhar�
+261245 PE Santa Cruz
+261247 PE Santa Cruz da Baixa Verde
+261250 PE Santa Cruz do Capibaribe
+261255 PE Santa Filomena
+261260 PE Santa Maria da Boa Vista
+261270 PE Santa Maria do Cambuc�
+261280 PE Santa Terezinha
+261290 PE S�o Benedito do Sul
+261300 PE S�o Bento do Una
+261310 PE S�o Caitano
+261320 PE S�o Jo�o
+261330 PE S�o Joaquim do Monte
+261340 PE S�o Jos� da Coroa Grande
+261350 PE S�o Jos� do Belmonte
+261360 PE S�o Jos� do Egito
+261370 PE S�o Louren�o da Mata
+261380 PE S�o Vicente Ferrer
+261390 PE Serra Talhada
+261400 PE Serrita
+261410 PE Sert�nia
+261420 PE Sirinha�m
+261430 PE Moreil�ndia
+261440 PE Solid�o
+261450 PE Surubim
+261460 PE Tabira
+261470 PE Tacaimb�
+261480 PE Tacaratu
+261485 PE Tamandar�
+261500 PE Taquaritinga do Norte
+261510 PE Terezinha
+261520 PE Terra Nova
+261530 PE Timba�ba
+261540 PE Toritama
+261550 PE Tracunha�m
+261560 PE Trindade
+261570 PE Triunfo
+261580 PE Tupanatinga
+261590 PE Tuparetama
+261600 PE Venturosa
+261610 PE Verdejante
+261618 PE Vertente do L�rio
+261620 PE Vertentes
+261630 PE Vic�ncia
+261640 PE Vit�ria de Santo Ant�o
+261650 PE Xex�u
+270010 AL �gua Branca
+270020 AL Anadia
+270030 AL Arapiraca
+270040 AL Atalaia
+270050 AL Barra de Santo Ant�nio
+270060 AL Barra de S�o Miguel
+270070 AL Batalha
+270080 AL Bel�m
+270090 AL Belo Monte
+270100 AL Boca da Mata
+270110 AL Branquinha
+270120 AL Cacimbinhas
+270130 AL Cajueiro
+270135 AL Campestre
+270140 AL Campo Alegre
+270150 AL Campo Grande
+270160 AL Canapi
+270170 AL Capela
+270180 AL Carneiros
+270190 AL Ch� Preta
+270200 AL Coit� do N�ia
+270210 AL Col�nia Leopoldina
+270220 AL Coqueiro Seco
+270230 AL Coruripe
+270235 AL Cra�bas
+270240 AL Delmiro Gouveia
+270250 AL Dois Riachos
+270255 AL Estrela de Alagoas
+270260 AL Feira Grande
+270270 AL Feliz Deserto
+270280 AL Flexeiras
+270290 AL Girau do Ponciano
+270300 AL Ibateguara
+270310 AL Igaci
+270320 AL Igreja Nova
+270330 AL Inhapi
+270340 AL Jacar� dos Homens
+270350 AL Jacu�pe
+270360 AL Japaratinga
+270370 AL Jaramataia
+270375 AL Jequi� da Praia
+270380 AL Joaquim Gomes
+270390 AL Jundi�
+270400 AL Junqueiro
+270410 AL Lagoa da Canoa
+270420 AL Limoeiro de Anadia
+270430 AL Macei�
+270440 AL Major Isidoro
+270450 AL Maragogi
+270460 AL Maravilha
+270470 AL Marechal Deodoro
+270480 AL Maribondo
+270490 AL Mar Vermelho
+270500 AL Mata Grande
+270510 AL Matriz de Camaragibe
+270520 AL Messias
+270530 AL Minador do Negr�o
+270540 AL Monteir�polis
+270550 AL Murici
+270560 AL Novo Lino
+270570 AL Olho d`�gua das Flores
+270580 AL Olho d`�gua do Casado
+270590 AL Olho d`�gua Grande
+270600 AL Oliven�a
+270610 AL Ouro Branco
+270620 AL Palestina
+270630 AL Palmeira dos �ndios
+270640 AL P�o de A��car
+270642 AL Pariconha
+270644 AL Paripueira
+270650 AL Passo de Camaragibe
+270660 AL Paulo Jacinto
+270670 AL Penedo
+270680 AL Pia�abu�u
+270690 AL Pilar
+270700 AL Pindoba
+270710 AL Piranhas
+270720 AL Po�o das Trincheiras
+270730 AL Porto Calvo
+270740 AL Porto de Pedras
+270750 AL Porto Real do Col�gio
+270760 AL Quebrangulo
+270770 AL Rio Largo
+270780 AL Roteiro
+270790 AL Santa Luzia do Norte
+270800 AL Santana do Ipanema
+270810 AL Santana do Munda�
+270820 AL S�o Br�s
+270830 AL S�o Jos� da Laje
+270840 AL S�o Jos� da Tapera
+270850 AL S�o Lu�s do Quitunde
+270860 AL S�o Miguel dos Campos
+270870 AL S�o Miguel dos Milagres
+270880 AL S�o Sebasti�o
+270890 AL Satuba
+270895 AL Senador Rui Palmeira
+270900 AL Tanque d`Arca
+270910 AL Taquarana
+270915 AL Teot�nio Vilela
+270920 AL Traipu
+270930 AL Uni�o dos Palmares
+270940 AL Vi�osa
+280010 SE Amparo de S�o Francisco
+280020 SE Aquidab�
+280030 SE Aracaju
+280040 SE Arau�
+280050 SE Areia Branca
+280060 SE Barra dos Coqueiros
+280067 SE Boquim
+280070 SE Brejo Grande
+280100 SE Campo do Brito
+280110 SE Canhoba
+280120 SE Canind� de S�o Francisco
+280130 SE Capela
+280140 SE Carira
+280150 SE Carm�polis
+280160 SE Cedro de S�o Jo�o
+280170 SE Cristin�polis
+280190 SE Cumbe
+280200 SE Divina Pastora
+280210 SE Est�ncia
+280220 SE Feira Nova
+280230 SE Frei Paulo
+280240 SE Gararu
+280250 SE General Maynard
+280260 SE Gracho Cardoso
+280270 SE Ilha das Flores
+280280 SE Indiaroba
+280290 SE Itabaiana
+280300 SE Itabaianinha
+280310 SE Itabi
+280320 SE Itaporanga d`Ajuda
+280330 SE Japaratuba
+280340 SE Japoat�
+280350 SE Lagarto
+280360 SE Laranjeiras
+280370 SE Macambira
+280380 SE Malhada dos Bois
+280390 SE Malhador
+280400 SE Maruim
+280410 SE Moita Bonita
+280420 SE Monte Alegre de Sergipe
+280430 SE Muribeca
+280440 SE Ne�polis
+280445 SE Nossa Senhora Aparecida
+280450 SE Nossa Senhora da Gl�ria
+280460 SE Nossa Senhora das Dores
+280470 SE Nossa Senhora de Lourdes
+280480 SE Nossa Senhora do Socorro
+280490 SE Pacatuba
+280500 SE Pedra Mole
+280510 SE Pedrinhas
+280520 SE Pinh�o
+280530 SE Pirambu
+280540 SE Po�o Redondo
+280550 SE Po�o Verde
+280560 SE Porto da Folha
+280570 SE Propri�
+280580 SE Riach�o do Dantas
+280590 SE Riachuelo
+280600 SE Ribeir�polis
+280610 SE Ros�rio do Catete
+280620 SE Salgado
+280630 SE Santa Luzia do Itanhy
+280640 SE Santana do S�o Francisco
+280650 SE Santa Rosa de Lima
+280660 SE Santo Amaro das Brotas
+280670 SE S�o Crist�v�o
+280680 SE S�o Domingos
+280690 SE S�o Francisco
+280700 SE S�o Miguel do Aleixo
+280710 SE Sim�o Dias
+280720 SE Siriri
+280730 SE Telha
+280740 SE Tobias Barreto
+280750 SE Tomar do Geru
+280760 SE Umba�ba
+290010 BA Aba�ra
+290020 BA Abar�
+290030 BA Acajutiba
+290035 BA Adustina
+290040 BA �gua Fria
+290050 BA �rico Cardoso
+290060 BA Aiquara
+290070 BA Alagoinhas
+290080 BA Alcoba�a
+290090 BA Almadina
+290100 BA Amargosa
+290110 BA Am�lia Rodrigues
+290115 BA Am�rica Dourada
+290120 BA Anag�
+290130 BA Andara�
+290135 BA Andorinha
+290140 BA Angical
+290150 BA Anguera
+290160 BA Antas
+290170 BA Ant�nio Cardoso
+290180 BA Ant�nio Gon�alves
+290190 BA Apor�
+290195 BA Apuarema
+290200 BA Aracatu
+290205 BA Ara�as
+290210 BA Araci
+290220 BA Aramari
+290225 BA Arataca
+290230 BA Aratu�pe
+290240 BA Aurelino Leal
+290250 BA Baian�polis
+290260 BA Baixa Grande
+290265 BA Banza�
+290270 BA Barra
+290280 BA Barra da Estiva
+290290 BA Barra do Cho�a
+290300 BA Barra do Mendes
+290310 BA Barra do Rocha
+290320 BA Barreiras
+290323 BA Barro Alto
+290327 BA Barrocas
+290330 BA Barro Preto
+290340 BA Belmonte
+290350 BA Belo Campo
+290360 BA Biritinga
+290370 BA Boa Nova
+290380 BA Boa Vista do Tupim
+290390 BA Bom Jesus da Lapa
+290395 BA Bom Jesus da Serra
+290400 BA Boninal
+290405 BA Bonito
+290410 BA Boquira
+290420 BA Botupor�
+290430 BA Brej�es
+290440 BA Brejol�ndia
+290450 BA Brotas de Maca�bas
+290460 BA Brumado
+290470 BA Buerarema
+290475 BA Buritirama
+290480 BA Caatiba
+290485 BA Cabaceiras do Paragua�u
+290490 BA Cachoeira
+290500 BA Cacul�
+290510 BA Ca�m
+290515 BA Caetanos
+290520 BA Caetit�
+290530 BA Cafarnaum
+290540 BA Cairu
+290550 BA Caldeir�o Grande
+290560 BA Camacan
+290570 BA Cama�ari
+290580 BA Camamu
+290590 BA Campo Alegre de Lourdes
+290600 BA Campo Formoso
+290610 BA Can�polis
+290620 BA Canarana
+290630 BA Canavieiras
+290640 BA Candeal
+290650 BA Candeias
+290660 BA Candiba
+290670 BA C�ndido Sales
+290680 BA Cansan��o
+290682 BA Canudos
+290685 BA Capela do Alto Alegre
+290687 BA Capim Grosso
+290689 BA Cara�bas
+290690 BA Caravelas
+290700 BA Cardeal da Silva
+290710 BA Carinhanha
+290720 BA Casa Nova
+290730 BA Castro Alves
+290740 BA Catol�ndia
+290750 BA Catu
+290755 BA Caturama
+290760 BA Central
+290770 BA Chorroch�
+290780 BA C�cero Dantas
+290790 BA Cip�
+290800 BA Coaraci
+290810 BA Cocos
+290820 BA Concei��o da Feira
+290830 BA Concei��o do Almeida
+290840 BA Concei��o do Coit�
+290850 BA Concei��o do Jacu�pe
+290860 BA Conde
+290870 BA Conde�ba
+290880 BA Contendas do Sincor�
+290890 BA Cora��o de Maria
+290900 BA Cordeiros
+290910 BA Coribe
+290920 BA Coronel Jo�o S�
+290930 BA Correntina
+290940 BA Cotegipe
+290950 BA Cravol�ndia
+290960 BA Cris�polis
+290970 BA Crist�polis
+290980 BA Cruz das Almas
+290990 BA Cura��
+291000 BA D�rio Meira
+291005 BA Dias d`�vila
+291010 BA Dom Bas�lio
+291020 BA Dom Macedo Costa
+291030 BA El�sio Medrado
+291040 BA Encruzilhada
+291050 BA Entre Rios
+291060 BA Esplanada
+291070 BA Euclides da Cunha
+291072 BA Eun�polis
+291075 BA F�tima
+291077 BA Feira da Mata
+291080 BA Feira de Santana
+291085 BA Filad�lfia
+291090 BA Firmino Alves
+291100 BA Floresta Azul
+291110 BA Formosa do Rio Preto
+291120 BA Gandu
+291125 BA Gavi�o
+291130 BA Gentio do Ouro
+291140 BA Gl�ria
+291150 BA Gongogi
+291160 BA Governador Mangabeira
+291165 BA Guajeru
+291170 BA Guanambi
+291180 BA Guaratinga
+291185 BA Heli�polis
+291190 BA Ia�u
+291200 BA Ibiassuc�
+291210 BA Ibicara�
+291220 BA Ibicoara
+291230 BA Ibicu�
+291240 BA Ibipeba
+291250 BA Ibipitanga
+291260 BA Ibiquera
+291270 BA Ibirapitanga
+291280 BA Ibirapu�
+291290 BA Ibirataia
+291300 BA Ibitiara
+291310 BA Ibitit�
+291320 BA Ibotirama
+291330 BA Ichu
+291340 BA Igapor�
+291345 BA Igrapi�na
+291350 BA Igua�
+291360 BA Ilh�us
+291370 BA Inhambupe
+291380 BA Ipecaet�
+291390 BA Ipia�
+291400 BA Ipir�
+291410 BA Ipupiara
+291420 BA Irajuba
+291430 BA Iramaia
+291440 BA Iraquara
+291450 BA Irar�
+291460 BA Irec�
+291465 BA Itabela
+291470 BA Itaberaba
+291480 BA Itabuna
+291490 BA Itacar�
+291500 BA Itaet�
+291510 BA Itagi
+291520 BA Itagib�
+291530 BA Itagimirim
+291535 BA Itagua�u da Bahia
+291540 BA Itaju do Col�nia
+291550 BA Itaju�pe
+291560 BA Itamaraju
+291570 BA Itamari
+291580 BA Itamb�
+291590 BA Itanagra
+291600 BA Itanh�m
+291610 BA Itaparica
+291620 BA Itap�
+291630 BA Itapebi
+291640 BA Itapetinga
+291650 BA Itapicuru
+291660 BA Itapitanga
+291670 BA Itaquara
+291680 BA Itarantim
+291685 BA Itatim
+291690 BA Itiru�u
+291700 BA Iti�ba
+291710 BA Itoror�
+291720 BA Itua�u
+291730 BA Ituber�
+291733 BA Iui�
+291735 BA Jaborandi
+291740 BA Jacaraci
+291750 BA Jacobina
+291760 BA Jaguaquara
+291770 BA Jaguarari
+291780 BA Jaguaripe
+291790 BA Janda�ra
+291800 BA Jequi�
+291810 BA Jeremoabo
+291820 BA Jiquiri��
+291830 BA Jita�na
+291835 BA Jo�o Dourado
+291840 BA Juazeiro
+291845 BA Jucuru�u
+291850 BA Jussara
+291855 BA Jussari
+291860 BA Jussiape
+291870 BA Lafaiete Coutinho
+291875 BA Lagoa Real
+291880 BA Laje
+291890 BA Lajed�o
+291900 BA Lajedinho
+291905 BA Lajedo do Tabocal
+291910 BA Lamar�o
+291915 BA Lap�o
+291920 BA Lauro de Freitas
+291930 BA Len��is
+291940 BA Lic�nio de Almeida
+291950 BA Livramento de Nossa Senhora
+291955 BA Lu�s Eduardo Magalh�es
+291960 BA Macajuba
+291970 BA Macarani
+291980 BA Maca�bas
+291990 BA Macurur�
+291992 BA Madre de Deus
+291995 BA Maetinga
+292000 BA Maiquinique
+292010 BA Mairi
+292020 BA Malhada
+292030 BA Malhada de Pedras
+292040 BA Manoel Vitorino
+292045 BA Mansid�o
+292050 BA Marac�s
+292060 BA Maragogipe
+292070 BA Mara�
+292080 BA Marcion�lio Souza
+292090 BA Mascote
+292100 BA Mata de S�o Jo�o
+292105 BA Matina
+292110 BA Medeiros Neto
+292120 BA Miguel Calmon
+292130 BA Milagres
+292140 BA Mirangaba
+292145 BA Mirante
+292150 BA Monte Santo
+292160 BA Morpar�
+292170 BA Morro do Chap�u
+292180 BA Mortugaba
+292190 BA Mucug�
+292200 BA Mucuri
+292205 BA Mulungu do Morro
+292210 BA Mundo Novo
+292220 BA Muniz Ferreira
+292225 BA Muqu�m de S�o Francisco
+292230 BA Muritiba
+292240 BA Mutu�pe
+292250 BA Nazar�
+292260 BA Nilo Pe�anha
+292265 BA Nordestina
+292270 BA Nova Cana�
+292273 BA Nova F�tima
+292275 BA Nova Ibi�
+292280 BA Nova Itarana
+292285 BA Nova Reden��o
+292290 BA Nova Soure
+292300 BA Nova Vi�osa
+292303 BA Novo Horizonte
+292305 BA Novo Triunfo
+292310 BA Olindina
+292320 BA Oliveira dos Brejinhos
+292330 BA Ouri�angas
+292335 BA Ourol�ndia
+292340 BA Palmas de Monte Alto
+292350 BA Palmeiras
+292360 BA Paramirim
+292370 BA Paratinga
+292380 BA Paripiranga
+292390 BA Pau Brasil
+292400 BA Paulo Afonso
+292405 BA P� de Serra
+292410 BA Pedr�o
+292420 BA Pedro Alexandre
+292430 BA Piat�
+292440 BA Pil�o Arcado
+292450 BA Pinda�
+292460 BA Pindoba�u
+292465 BA Pintadas
+292467 BA Pira� do Norte
+292470 BA Pirip�
+292480 BA Piritiba
+292490 BA Planaltino
+292500 BA Planalto
+292510 BA Po��es
+292520 BA Pojuca
+292525 BA Ponto Novo
+292530 BA Porto Seguro
+292540 BA Potiragu�
+292550 BA Prado
+292560 BA Presidente Dutra
+292570 BA Presidente J�nio Quadros
+292575 BA Presidente Tancredo Neves
+292580 BA Queimadas
+292590 BA Quijingue
+292593 BA Quixabeira
+292595 BA Rafael Jambeiro
+292600 BA Remanso
+292610 BA Retirol�ndia
+292620 BA Riach�o das Neves
+292630 BA Riach�o do Jacu�pe
+292640 BA Riacho de Santana
+292650 BA Ribeira do Amparo
+292660 BA Ribeira do Pombal
+292665 BA Ribeir�o do Largo
+292670 BA Rio de Contas
+292680 BA Rio do Ant�nio
+292690 BA Rio do Pires
+292700 BA Rio Real
+292710 BA Rodelas
+292720 BA Ruy Barbosa
+292730 BA Salinas da Margarida
+292740 BA Salvador
+292750 BA Santa B�rbara
+292760 BA Santa Br�gida
+292770 BA Santa Cruz Cabr�lia
+292780 BA Santa Cruz da Vit�ria
+292790 BA Santa In�s
+292800 BA Santaluz
+292805 BA Santa Luzia
+292810 BA Santa Maria da Vit�ria
+292820 BA Santana
+292830 BA Santan�polis
+292840 BA Santa Rita de C�ssia
+292850 BA Santa Teresinha
+292860 BA Santo Amaro
+292870 BA Santo Ant�nio de Jesus
+292880 BA Santo Est�v�o
+292890 BA S�o Desid�rio
+292895 BA S�o Domingos
+292900 BA S�o F�lix
+292905 BA S�o F�lix do Coribe
+292910 BA S�o Felipe
+292920 BA S�o Francisco do Conde
+292925 BA S�o Gabriel
+292930 BA S�o Gon�alo dos Campos
+292935 BA S�o Jos� da Vit�ria
+292937 BA S�o Jos� do Jacu�pe
+292940 BA S�o Miguel das Matas
+292950 BA S�o Sebasti�o do Pass�
+292960 BA Sapea�u
+292970 BA S�tiro Dias
+292975 BA Saubara
+292980 BA Sa�de
+292990 BA Seabra
+293000 BA Sebasti�o Laranjeiras
+293010 BA Senhor do Bonfim
+293015 BA Serra do Ramalho
+293020 BA Sento S�
+293030 BA Serra Dourada
+293040 BA Serra Preta
+293050 BA Serrinha
+293060 BA Serrol�ndia
+293070 BA Sim�es Filho
+293075 BA S�tio do Mato
+293076 BA S�tio do Quinto
+293077 BA Sobradinho
+293080 BA Souto Soares
+293090 BA Tabocas do Brejo Velho
+293100 BA Tanha�u
+293105 BA Tanque Novo
+293110 BA Tanquinho
+293120 BA Tapero�
+293130 BA Tapiramut�
+293135 BA Teixeira de Freitas
+293140 BA Teodoro Sampaio
+293150 BA Teofil�ndia
+293160 BA Teol�ndia
+293170 BA Terra Nova
+293180 BA Tremedal
+293190 BA Tucano
+293200 BA Uau�
+293210 BA Uba�ra
+293220 BA Ubaitaba
+293230 BA Ubat�
+293240 BA Uiba�
+293245 BA Umburanas
+293250 BA Una
+293260 BA Urandi
+293270 BA Uru�uca
+293280 BA Utinga
+293290 BA Valen�a
+293300 BA Valente
+293305 BA V�rzea da Ro�a
+293310 BA V�rzea do Po�o
+293315 BA V�rzea Nova
+293317 BA Varzedo
+293320 BA Vera Cruz
+293325 BA Vereda
+293330 BA Vit�ria da Conquista
+293340 BA Wagner
+293345 BA Wanderley
+293350 BA Wenceslau Guimar�es
+293360 BA Xique-Xique
+310010 MG Abadia dos Dourados
+310020 MG Abaet�
+310030 MG Abre Campo
+310040 MG Acaiaca
+310050 MG A�ucena
+310060 MG �gua Boa
+310070 MG �gua Comprida
+310080 MG Aguanil
+310090 MG �guas Formosas
+310100 MG �guas Vermelhas
+310110 MG Aimor�s
+310120 MG Aiuruoca
+310130 MG Alagoa
+310140 MG Albertina
+310150 MG Al�m Para�ba
+310160 MG Alfenas
+310163 MG Alfredo Vasconcelos
+310170 MG Almenara
+310180 MG Alpercata
+310190 MG Alpin�polis
+310200 MG Alterosa
+310205 MG Alto Capara�
+310210 MG Alto Rio Doce
+310220 MG Alvarenga
+310230 MG Alvin�polis
+310240 MG Alvorada de Minas
+310250 MG Amparo do Serra
+310260 MG Andradas
+310270 MG Cachoeira de Paje�
+310280 MG Andrel�ndia
+310285 MG Angel�ndia
+310290 MG Ant�nio Carlos
+310300 MG Ant�nio Dias
+310310 MG Ant�nio Prado de Minas
+310320 MG Ara�a�
+310330 MG Aracitaba
+310340 MG Ara�ua�
+310350 MG Araguari
+310360 MG Arantina
+310370 MG Araponga
+310375 MG Arapor�
+310380 MG Arapu�
+310390 MG Ara�jos
+310400 MG Arax�
+310410 MG Arceburgo
+310420 MG Arcos
+310430 MG Areado
+310440 MG Argirita
+310445 MG Aricanduva
+310450 MG Arinos
+310460 MG Astolfo Dutra
+310470 MG Atal�ia
+310480 MG Augusto de Lima
+310490 MG Baependi
+310500 MG Baldim
+310510 MG Bambu�
+310520 MG Bandeira
+310530 MG Bandeira do Sul
+310540 MG Bar�o de Cocais
+310550 MG Bar�o de Monte Alto
+310560 MG Barbacena
+310570 MG Barra Longa
+310590 MG Barroso
+310600 MG Bela Vista de Minas
+310610 MG Belmiro Braga
+310620 MG Belo Horizonte
+310630 MG Belo Oriente
+310640 MG Belo Vale
+310650 MG Berilo
+310660 MG Bert�polis
+310665 MG Berizal
+310670 MG Betim
+310680 MG Bias Fortes
+310690 MG Bicas
+310700 MG Biquinhas
+310710 MG Boa Esperan�a
+310720 MG Bocaina de Minas
+310730 MG Bocai�va
+310740 MG Bom Despacho
+310750 MG Bom Jardim de Minas
+310760 MG Bom Jesus da Penha
+310770 MG Bom Jesus do Amparo
+310780 MG Bom Jesus do Galho
+310790 MG Bom Repouso
+310800 MG Bom Sucesso
+310810 MG Bonfim
+310820 MG Bonfin�polis de Minas
+310825 MG Bonito de Minas
+310830 MG Borda da Mata
+310840 MG Botelhos
+310850 MG Botumirim
+310855 MG Brasil�ndia de Minas
+310860 MG Bras�lia de Minas
+310870 MG Br�s Pires
+310880 MG Bra�nas
+310890 MG Bras�polis
+310900 MG Brumadinho
+310910 MG Bueno Brand�o
+310920 MG Buen�polis
+310925 MG Bugre
+310930 MG Buritis
+310940 MG Buritizeiro
+310945 MG Cabeceira Grande
+310950 MG Cabo Verde
+310960 MG Cachoeira da Prata
+310970 MG Cachoeira de Minas
+310980 MG Cachoeira Dourada
+310990 MG Caetan�polis
+311000 MG Caet�
+311010 MG Caiana
+311020 MG Cajuri
+311030 MG Caldas
+311040 MG Camacho
+311050 MG Camanducaia
+311060 MG Cambu�
+311070 MG Cambuquira
+311080 MG Campan�rio
+311090 MG Campanha
+311100 MG Campestre
+311110 MG Campina Verde
+311115 MG Campo Azul
+311120 MG Campo Belo
+311130 MG Campo do Meio
+311140 MG Campo Florido
+311150 MG Campos Altos
+311160 MG Campos Gerais
+311170 MG Cana�
+311180 MG Can�polis
+311190 MG Cana Verde
+311200 MG Candeias
+311205 MG Cantagalo
+311210 MG Capara�
+311220 MG Capela Nova
+311230 MG Capelinha
+311240 MG Capetinga
+311250 MG Capim Branco
+311260 MG Capin�polis
+311265 MG Capit�o Andrade
+311270 MG Capit�o En�as
+311280 MG Capit�lio
+311290 MG Caputira
+311300 MG Cara�
+311310 MG Carana�ba
+311320 MG Caranda�
+311330 MG Carangola
+311340 MG Caratinga
+311350 MG Carbonita
+311360 MG Carea�u
+311370 MG Carlos Chagas
+311380 MG Carm�sia
+311390 MG Carmo da Cachoeira
+311400 MG Carmo da Mata
+311410 MG Carmo de Minas
+311420 MG Carmo do Cajuru
+311430 MG Carmo do Parana�ba
+311440 MG Carmo do Rio Claro
+311450 MG Carm�polis de Minas
+311455 MG Carneirinho
+311460 MG Carrancas
+311470 MG Carvalh�polis
+311480 MG Carvalhos
+311490 MG Casa Grande
+311500 MG Cascalho Rico
+311510 MG C�ssia
+311520 MG Concei��o da Barra de Minas
+311530 MG Cataguases
+311535 MG Catas Altas
+311540 MG Catas Altas da Noruega
+311545 MG Catuji
+311547 MG Catuti
+311550 MG Caxambu
+311560 MG Cedro do Abaet�
+311570 MG Central de Minas
+311580 MG Centralina
+311590 MG Ch�cara
+311600 MG Chal�
+311610 MG Chapada do Norte
+311615 MG Chapada Ga�cha
+311620 MG Chiador
+311630 MG Cipot�nea
+311640 MG Claraval
+311650 MG Claro dos Po��es
+311660 MG Cl�udio
+311670 MG Coimbra
+311680 MG Coluna
+311690 MG Comendador Gomes
+311700 MG Comercinho
+311710 MG Concei��o da Aparecida
+311720 MG Concei��o das Pedras
+311730 MG Concei��o das Alagoas
+311740 MG Concei��o de Ipanema
+311750 MG Concei��o do Mato Dentro
+311760 MG Concei��o do Par�
+311770 MG Concei��o do Rio Verde
+311780 MG Concei��o dos Ouros
+311783 MG C�nego Marinho
+311787 MG Confins
+311790 MG Congonhal
+311800 MG Congonhas
+311810 MG Congonhas do Norte
+311820 MG Conquista
+311830 MG Conselheiro Lafaiete
+311840 MG Conselheiro Pena
+311850 MG Consola��o
+311860 MG Contagem
+311870 MG Coqueiral
+311880 MG Cora��o de Jesus
+311890 MG Cordisburgo
+311900 MG Cordisl�ndia
+311910 MG Corinto
+311920 MG Coroaci
+311930 MG Coromandel
+311940 MG Coronel Fabriciano
+311950 MG Coronel Murta
+311960 MG Coronel Pacheco
+311970 MG Coronel Xavier Chaves
+311980 MG C�rrego Danta
+311990 MG C�rrego do Bom Jesus
+311995 MG C�rrego Fundo
+312000 MG C�rrego Novo
+312010 MG Couto de Magalh�es de Minas
+312015 MG Cris�lita
+312020 MG Cristais
+312030 MG Crist�lia
+312040 MG Cristiano Otoni
+312050 MG Cristina
+312060 MG Crucil�ndia
+312070 MG Cruzeiro da Fortaleza
+312080 MG Cruz�lia
+312083 MG Cuparaque
+312087 MG Curral de Dentro
+312090 MG Curvelo
+312100 MG Datas
+312110 MG Delfim Moreira
+312120 MG Delfin�polis
+312125 MG Delta
+312130 MG Descoberto
+312140 MG Desterro de Entre Rios
+312150 MG Desterro do Melo
+312160 MG Diamantina
+312170 MG Diogo de Vasconcelos
+312180 MG Dion�sio
+312190 MG Divin�sia
+312200 MG Divino
+312210 MG Divino das Laranjeiras
+312220 MG Divinol�ndia de Minas
+312230 MG Divin�polis
+312235 MG Divisa Alegre
+312240 MG Divisa Nova
+312245 MG Divis�polis
+312247 MG Dom Bosco
+312250 MG Dom Cavati
+312260 MG Dom Joaquim
+312270 MG Dom Silv�rio
+312280 MG Dom Vi�oso
+312290 MG Dona Eus�bia
+312300 MG Dores de Campos
+312310 MG Dores de Guanh�es
+312320 MG Dores do Indai�
+312330 MG Dores do Turvo
+312340 MG Dores�polis
+312350 MG Douradoquara
+312352 MG Durand�
+312360 MG El�i Mendes
+312370 MG Engenheiro Caldas
+312380 MG Engenheiro Navarro
+312385 MG Entre Folhas
+312390 MG Entre Rios de Minas
+312400 MG Erv�lia
+312410 MG Esmeraldas
+312420 MG Espera Feliz
+312430 MG Espinosa
+312440 MG Esp�rito Santo do Dourado
+312450 MG Estiva
+312460 MG Estrela Dalva
+312470 MG Estrela do Indai�
+312480 MG Estrela do Sul
+312490 MG Eugen�polis
+312500 MG Ewbank da C�mara
+312510 MG Extrema
+312520 MG Fama
+312530 MG Faria Lemos
+312540 MG Fel�cio dos Santos
+312550 MG S�o Gon�alo do Rio Preto
+312560 MG Felisburgo
+312570 MG Felixl�ndia
+312580 MG Fernandes Tourinho
+312590 MG Ferros
+312595 MG Fervedouro
+312600 MG Florestal
+312610 MG Formiga
+312620 MG Formoso
+312630 MG Fortaleza de Minas
+312640 MG Fortuna de Minas
+312650 MG Francisco Badar�
+312660 MG Francisco Dumont
+312670 MG Francisco S�
+312675 MG Francisc�polis
+312680 MG Frei Gaspar
+312690 MG Frei Inoc�ncio
+312695 MG Frei Lagonegro
+312700 MG Fronteira
+312705 MG Fronteira dos Vales
+312707 MG Fruta de Leite
+312710 MG Frutal
+312720 MG Funil�ndia
+312730 MG Galil�ia
+312733 MG Gameleiras
+312735 MG Glaucil�ndia
+312737 MG Goiabeira
+312738 MG Goian�
+312740 MG Gon�alves
+312750 MG Gonzaga
+312760 MG Gouveia
+312770 MG Governador Valadares
+312780 MG Gr�o Mogol
+312790 MG Grupiara
+312800 MG Guanh�es
+312810 MG Guap�
+312820 MG Guaraciaba
+312825 MG Guaraciama
+312830 MG Guaran�sia
+312840 MG Guarani
+312850 MG Guarar�
+312860 MG Guarda-Mor
+312870 MG Guaxup�
+312880 MG Guidoval
+312890 MG Guimar�nia
+312900 MG Guiricema
+312910 MG Gurinhat�
+312920 MG Heliodora
+312930 MG Iapu
+312940 MG Ibertioga
+312950 MG Ibi�
+312960 MG Ibia�
+312965 MG Ibiracatu
+312970 MG Ibiraci
+312980 MG Ibirit�
+312990 MG Ibiti�ra de Minas
+313000 MG Ibituruna
+313005 MG Icara� de Minas
+313010 MG Igarap�
+313020 MG Igaratinga
+313030 MG Iguatama
+313040 MG Ijaci
+313050 MG Ilic�nea
+313055 MG Imb� de Minas
+313060 MG Inconfidentes
+313065 MG Indaiabira
+313070 MG Indian�polis
+313080 MG Inga�
+313090 MG Inhapim
+313100 MG Inha�ma
+313110 MG Inimutaba
+313115 MG Ipaba
+313120 MG Ipanema
+313130 MG Ipatinga
+313140 MG Ipia�u
+313150 MG Ipui�na
+313160 MG Ira� de Minas
+313170 MG Itabira
+313180 MG Itabirinha
+313190 MG Itabirito
+313200 MG Itacambira
+313210 MG Itacarambi
+313220 MG Itaguara
+313230 MG Itaip�
+313240 MG Itajub�
+313250 MG Itamarandiba
+313260 MG Itamarati de Minas
+313270 MG Itambacuri
+313280 MG Itamb� do Mato Dentro
+313290 MG Itamogi
+313300 MG Itamonte
+313310 MG Itanhandu
+313320 MG Itanhomi
+313330 MG Itaobim
+313340 MG Itapagipe
+313350 MG Itapecerica
+313360 MG Itapeva
+313370 MG Itatiaiu�u
+313375 MG Ita� de Minas
+313380 MG Ita�na
+313390 MG Itaverava
+313400 MG Itinga
+313410 MG Itueta
+313420 MG Ituiutaba
+313430 MG Itumirim
+313440 MG Iturama
+313450 MG Itutinga
+313460 MG Jaboticatubas
+313470 MG Jacinto
+313480 MG Jacu�
+313490 MG Jacutinga
+313500 MG Jaguara�u
+313505 MG Ja�ba
+313507 MG Jampruca
+313510 MG Jana�ba
+313520 MG Janu�ria
+313530 MG Japara�ba
+313535 MG Japonvar
+313540 MG Jeceaba
+313545 MG Jenipapo de Minas
+313550 MG Jequeri
+313560 MG Jequita�
+313570 MG Jequitib�
+313580 MG Jequitinhonha
+313590 MG Jesu�nia
+313600 MG Joa�ma
+313610 MG Joan�sia
+313620 MG Jo�o Monlevade
+313630 MG Jo�o Pinheiro
+313640 MG Joaquim Fel�cio
+313650 MG Jord�nia
+313652 MG Jos� Gon�alves de Minas
+313655 MG Jos� Raydan
+313657 MG Josen�polis
+313660 MG Nova Uni�o
+313665 MG Juatuba
+313670 MG Juiz de Fora
+313680 MG Juramento
+313690 MG Juruaia
+313695 MG Juven�lia
+313700 MG Ladainha
+313710 MG Lagamar
+313720 MG Lagoa da Prata
+313730 MG Lagoa dos Patos
+313740 MG Lagoa Dourada
+313750 MG Lagoa Formosa
+313753 MG Lagoa Grande
+313760 MG Lagoa Santa
+313770 MG Lajinha
+313780 MG Lambari
+313790 MG Lamim
+313800 MG Laranjal
+313810 MG Lassance
+313820 MG Lavras
+313830 MG Leandro Ferreira
+313835 MG Leme do Prado
+313840 MG Leopoldina
+313850 MG Liberdade
+313860 MG Lima Duarte
+313862 MG Limeira do Oeste
+313865 MG Lontra
+313867 MG Luisburgo
+313868 MG Luisl�ndia
+313870 MG Lumin�rias
+313880 MG Luz
+313890 MG Machacalis
+313900 MG Machado
+313910 MG Madre de Deus de Minas
+313920 MG Malacacheta
+313925 MG Mamonas
+313930 MG Manga
+313940 MG Manhua�u
+313950 MG Manhumirim
+313960 MG Mantena
+313970 MG Maravilhas
+313980 MG Mar de Espanha
+313990 MG Maria da F�
+314000 MG Mariana
+314010 MG Marilac
+314015 MG M�rio Campos
+314020 MG Marip� de Minas
+314030 MG Marli�ria
+314040 MG Marmel�polis
+314050 MG Martinho Campos
+314053 MG Martins Soares
+314055 MG Mata Verde
+314060 MG Materl�ndia
+314070 MG Mateus Leme
+314080 MG Matias Barbosa
+314085 MG Matias Cardoso
+314090 MG Matip�
+314100 MG Mato Verde
+314110 MG Matozinhos
+314120 MG Matutina
+314130 MG Medeiros
+314140 MG Medina
+314150 MG Mendes Pimentel
+314160 MG Merc�s
+314170 MG Mesquita
+314180 MG Minas Novas
+314190 MG Minduri
+314200 MG Mirabela
+314210 MG Miradouro
+314220 MG Mira�
+314225 MG Mirav�nia
+314230 MG Moeda
+314240 MG Moema
+314250 MG Monjolos
+314260 MG Monsenhor Paulo
+314270 MG Montalv�nia
+314280 MG Monte Alegre de Minas
+314290 MG Monte Azul
+314300 MG Monte Belo
+314310 MG Monte Carmelo
+314315 MG Monte Formoso
+314320 MG Monte Santo de Minas
+314330 MG Montes Claros
+314340 MG Monte Si�o
+314345 MG Montezuma
+314350 MG Morada Nova de Minas
+314360 MG Morro da Gar�a
+314370 MG Morro do Pilar
+314380 MG Munhoz
+314390 MG Muria�
+314400 MG Mutum
+314410 MG Muzambinho
+314420 MG Nacip Raydan
+314430 MG Nanuque
+314435 MG Naque
+314437 MG Natal�ndia
+314440 MG Nat�rcia
+314450 MG Nazareno
+314460 MG Nepomuceno
+314465 MG Ninheira
+314467 MG Nova Bel�m
+314470 MG Nova Era
+314480 MG Nova Lima
+314490 MG Nova M�dica
+314500 MG Nova Ponte
+314505 MG Nova Porteirinha
+314510 MG Nova Resende
+314520 MG Nova Serrana
+314530 MG Novo Cruzeiro
+314535 MG Novo Oriente de Minas
+314537 MG Novorizonte
+314540 MG Olaria
+314545 MG Olhos-d`�gua
+314550 MG Ol�mpio Noronha
+314560 MG Oliveira
+314570 MG Oliveira Fortes
+314580 MG On�a de Pitangui
+314585 MG Orat�rios
+314587 MG Oriz�nia
+314590 MG Ouro Branco
+314600 MG Ouro Fino
+314610 MG Ouro Preto
+314620 MG Ouro Verde de Minas
+314625 MG Padre Carvalho
+314630 MG Padre Para�so
+314640 MG Paineiras
+314650 MG Pains
+314655 MG Pai Pedro
+314660 MG Paiva
+314670 MG Palma
+314675 MG Palm�polis
+314690 MG Papagaios
+314700 MG Paracatu
+314710 MG Par� de Minas
+314720 MG Paragua�u
+314730 MG Parais�polis
+314740 MG Paraopeba
+314750 MG Passab�m
+314760 MG Passa Quatro
+314770 MG Passa Tempo
+314780 MG Passa-Vinte
+314790 MG Passos
+314795 MG Patis
+314800 MG Patos de Minas
+314810 MG Patroc�nio
+314820 MG Patroc�nio do Muria�
+314830 MG Paula C�ndido
+314840 MG Paulistas
+314850 MG Pav�o
+314860 MG Pe�anha
+314870 MG Pedra Azul
+314875 MG Pedra Bonita
+314880 MG Pedra do Anta
+314890 MG Pedra do Indai�
+314900 MG Pedra Dourada
+314910 MG Pedralva
+314915 MG Pedras de Maria da Cruz
+314920 MG Pedrin�polis
+314930 MG Pedro Leopoldo
+314940 MG Pedro Teixeira
+314950 MG Pequeri
+314960 MG Pequi
+314970 MG Perdig�o
+314980 MG Perdizes
+314990 MG Perd�es
+314995 MG Periquito
+315000 MG Pescador
+315010 MG Piau
+315015 MG Piedade de Caratinga
+315020 MG Piedade de Ponte Nova
+315030 MG Piedade do Rio Grande
+315040 MG Piedade dos Gerais
+315050 MG Pimenta
+315053 MG Pingo-d`�gua
+315057 MG Pint�polis
+315060 MG Piracema
+315070 MG Pirajuba
+315080 MG Piranga
+315090 MG Pirangu�u
+315100 MG Piranguinho
+315110 MG Pirapetinga
+315120 MG Pirapora
+315130 MG Pira�ba
+315140 MG Pitangui
+315150 MG Piumhi
+315160 MG Planura
+315170 MG Po�o Fundo
+315180 MG Po�os de Caldas
+315190 MG Pocrane
+315200 MG Pomp�u
+315210 MG Ponte Nova
+315213 MG Ponto Chique
+315217 MG Ponto dos Volantes
+315220 MG Porteirinha
+315230 MG Porto Firme
+315240 MG Pot�
+315250 MG Pouso Alegre
+315260 MG Pouso Alto
+315270 MG Prados
+315280 MG Prata
+315290 MG Prat�polis
+315300 MG Pratinha
+315310 MG Presidente Bernardes
+315320 MG Presidente Juscelino
+315330 MG Presidente Kubitschek
+315340 MG Presidente Oleg�rio
+315350 MG Alto Jequitib�
+315360 MG Prudente de Morais
+315370 MG Quartel Geral
+315380 MG Queluzito
+315390 MG Raposos
+315400 MG Raul Soares
+315410 MG Recreio
+315415 MG Reduto
+315420 MG Resende Costa
+315430 MG Resplendor
+315440 MG Ressaquinha
+315445 MG Riachinho
+315450 MG Riacho dos Machados
+315460 MG Ribeir�o das Neves
+315470 MG Ribeir�o Vermelho
+315480 MG Rio Acima
+315490 MG Rio Casca
+315500 MG Rio Doce
+315510 MG Rio do Prado
+315520 MG Rio Espera
+315530 MG Rio Manso
+315540 MG Rio Novo
+315550 MG Rio Parana�ba
+315560 MG Rio Pardo de Minas
+315570 MG Rio Piracicaba
+315580 MG Rio Pomba
+315590 MG Rio Preto
+315600 MG Rio Vermelho
+315610 MG Rit�polis
+315620 MG Rochedo de Minas
+315630 MG Rodeiro
+315640 MG Romaria
+315645 MG Ros�rio da Limeira
+315650 MG Rubelita
+315660 MG Rubim
+315670 MG Sabar�
+315680 MG Sabin�polis
+315690 MG Sacramento
+315700 MG Salinas
+315710 MG Salto da Divisa
+315720 MG Santa B�rbara
+315725 MG Santa B�rbara do Leste
+315727 MG Santa B�rbara do Monte Verde
+315730 MG Santa B�rbara do Tug�rio
+315733 MG Santa Cruz de Minas
+315737 MG Santa Cruz de Salinas
+315740 MG Santa Cruz do Escalvado
+315750 MG Santa Efig�nia de Minas
+315760 MG Santa F� de Minas
+315765 MG Santa Helena de Minas
+315770 MG Santa Juliana
+315780 MG Santa Luzia
+315790 MG Santa Margarida
+315800 MG Santa Maria de Itabira
+315810 MG Santa Maria do Salto
+315820 MG Santa Maria do Sua�u�
+315830 MG Santana da Vargem
+315840 MG Santana de Cataguases
+315850 MG Santana de Pirapama
+315860 MG Santana do Deserto
+315870 MG Santana do Garamb�u
+315880 MG Santana do Jacar�
+315890 MG Santana do Manhua�u
+315895 MG Santana do Para�so
+315900 MG Santana do Riacho
+315910 MG Santana dos Montes
+315920 MG Santa Rita de Caldas
+315930 MG Santa Rita de Jacutinga
+315935 MG Santa Rita de Minas
+315940 MG Santa Rita de Ibitipoca
+315950 MG Santa Rita do Itueto
+315960 MG Santa Rita do Sapuca�
+315970 MG Santa Rosa da Serra
+315980 MG Santa Vit�ria
+315990 MG Santo Ant�nio do Amparo
+316000 MG Santo Ant�nio do Aventureiro
+316010 MG Santo Ant�nio do Grama
+316020 MG Santo Ant�nio do Itamb�
+316030 MG Santo Ant�nio do Jacinto
+316040 MG Santo Ant�nio do Monte
+316045 MG Santo Ant�nio do Retiro
+316050 MG Santo Ant�nio do Rio Abaixo
+316060 MG Santo Hip�lito
+316070 MG Santos Dumont
+316080 MG S�o Bento Abade
+316090 MG S�o Br�s do Sua�u�
+316095 MG S�o Domingos das Dores
+316100 MG S�o Domingos do Prata
+316105 MG S�o F�lix de Minas
+316110 MG S�o Francisco
+316120 MG S�o Francisco de Paula
+316130 MG S�o Francisco de Sales
+316140 MG S�o Francisco do Gl�ria
+316150 MG S�o Geraldo
+316160 MG S�o Geraldo da Piedade
+316165 MG S�o Geraldo do Baixio
+316170 MG S�o Gon�alo do Abaet�
+316180 MG S�o Gon�alo do Par�
+316190 MG S�o Gon�alo do Rio Abaixo
+316200 MG S�o Gon�alo do Sapuca�
+316210 MG S�o Gotardo
+316220 MG S�o Jo�o Batista do Gl�ria
+316225 MG S�o Jo�o da Lagoa
+316230 MG S�o Jo�o da Mata
+316240 MG S�o Jo�o da Ponte
+316245 MG S�o Jo�o das Miss�es
+316250 MG S�o Jo�o del Rei
+316255 MG S�o Jo�o do Manhua�u
+316257 MG S�o Jo�o do Manteninha
+316260 MG S�o Jo�o do Oriente
+316265 MG S�o Jo�o do Pacu�
+316270 MG S�o Jo�o do Para�so
+316280 MG S�o Jo�o Evangelista
+316290 MG S�o Jo�o Nepomuceno
+316292 MG S�o Joaquim de Bicas
+316294 MG S�o Jos� da Barra
+316295 MG S�o Jos� da Lapa
+316300 MG S�o Jos� da Safira
+316310 MG S�o Jos� da Varginha
+316320 MG S�o Jos� do Alegre
+316330 MG S�o Jos� do Divino
+316340 MG S�o Jos� do Goiabal
+316350 MG S�o Jos� do Jacuri
+316360 MG S�o Jos� do Mantimento
+316370 MG S�o Louren�o
+316380 MG S�o Miguel do Anta
+316390 MG S�o Pedro da Uni�o
+316400 MG S�o Pedro dos Ferros
+316410 MG S�o Pedro do Sua�u�
+316420 MG S�o Rom�o
+316430 MG S�o Roque de Minas
+316440 MG S�o Sebasti�o da Bela Vista
+316443 MG S�o Sebasti�o da Vargem  Alegre
+316447 MG S�o Sebasti�o do Anta
+316450 MG S�o Sebasti�o do Maranh�o
+316460 MG S�o Sebasti�o do Oeste
+316470 MG S�o Sebasti�o do Para�so
+316480 MG S�o Sebasti�o do Rio Preto
+316490 MG S�o Sebasti�o do Rio Verde
+316500 MG S�o Tiago
+316510 MG S�o Tom�s de Aquino
+316520 MG S�o Thom� das Letras
+316530 MG S�o Vicente de Minas
+316540 MG Sapuca�-Mirim
+316550 MG Sardo�
+316553 MG Sarzedo
+316555 MG Setubinha
+316556 MG Sem-Peixe
+316557 MG Senador Amaral
+316560 MG Senador Cortes
+316570 MG Senador Firmino
+316580 MG Senador Jos� Bento
+316590 MG Senador Modestino Gon�alves
+316600 MG Senhora de Oliveira
+316610 MG Senhora do Porto
+316620 MG Senhora dos Rem�dios
+316630 MG Sericita
+316640 MG Seritinga
+316650 MG Serra Azul de Minas
+316660 MG Serra da Saudade
+316670 MG Serra dos Aimor�s
+316680 MG Serra do Salitre
+316690 MG Serrania
+316695 MG Serran�polis de Minas
+316700 MG Serranos
+316710 MG Serro
+316720 MG Sete Lagoas
+316730 MG Silveir�nia
+316740 MG Silvian�polis
+316750 MG Sim�o Pereira
+316760 MG Simon�sia
+316770 MG Sobr�lia
+316780 MG Soledade de Minas
+316790 MG Tabuleiro
+316800 MG Taiobeiras
+316805 MG Taparuba
+316810 MG Tapira
+316820 MG Tapira�
+316830 MG Taquara�u de Minas
+316840 MG Tarumirim
+316850 MG Teixeiras
+316860 MG Te�filo Otoni
+316870 MG Tim�teo
+316880 MG Tiradentes
+316890 MG Tiros
+316900 MG Tocantins
+316905 MG Tocos do Moji
+316910 MG Toledo
+316920 MG Tombos
+316930 MG Tr�s Cora��es
+316935 MG Tr�s Marias
+316940 MG Tr�s Pontas
+316950 MG Tumiritinga
+316960 MG Tupaciguara
+316970 MG Turmalina
+316980 MG Turvol�ndia
+316990 MG Ub�
+317000 MG Uba�
+317005 MG Ubaporanga
+317010 MG Uberaba
+317020 MG Uberl�ndia
+317030 MG Umburatiba
+317040 MG Una�
+317043 MG Uni�o de Minas
+317047 MG Uruana de Minas
+317050 MG Uruc�nia
+317052 MG Urucuia
+317057 MG Vargem Alegre
+317060 MG Vargem Bonita
+317065 MG Vargem Grande do Rio Pardo
+317070 MG Varginha
+317075 MG Varj�o de Minas
+317080 MG V�rzea da Palma
+317090 MG Varzel�ndia
+317100 MG Vazante
+317103 MG Verdel�ndia
+317107 MG Veredinha
+317110 MG Ver�ssimo
+317115 MG Vermelho Novo
+317120 MG Vespasiano
+317130 MG Vi�osa
+317140 MG Vieiras
+317150 MG Mathias Lobato
+317160 MG Virgem da Lapa
+317170 MG Virg�nia
+317180 MG Virgin�polis
+317190 MG Virgol�ndia
+317200 MG Visconde do Rio Branco
+317210 MG Volta Grande
+317220 MG Wenceslau Braz
+320010 ES Afonso Cl�udio
+320013 ES �guia Branca
+320016 ES �gua Doce do Norte
+320020 ES Alegre
+320030 ES Alfredo Chaves
+320035 ES Alto Rio Novo
+320040 ES Anchieta
+320050 ES Apiac�
+320060 ES Aracruz
+320070 ES Atilio Vivacqua
+320080 ES Baixo Guandu
+320090 ES Barra de S�o Francisco
+320100 ES Boa Esperan�a
+320110 ES Bom Jesus do Norte
+320115 ES Brejetuba
+320120 ES Cachoeiro de Itapemirim
+320130 ES Cariacica
+320140 ES Castelo
+320150 ES Colatina
+320160 ES Concei��o da Barra
+320170 ES Concei��o do Castelo
+320180 ES Divino de S�o Louren�o
+320190 ES Domingos Martins
+320200 ES Dores do Rio Preto
+320210 ES Ecoporanga
+320220 ES Fund�o
+320225 ES Governador Lindenberg
+320230 ES Gua�u�
+320240 ES Guarapari
+320245 ES Ibatiba
+320250 ES Ibira�u
+320255 ES Ibitirama
+320260 ES Iconha
+320265 ES Irupi
+320270 ES Itagua�u
+320280 ES Itapemirim
+320290 ES Itarana
+320300 ES I�na
+320305 ES Jaguar�
+320310 ES Jer�nimo Monteiro
+320313 ES Jo�o Neiva
+320316 ES Laranja da Terra
+320320 ES Linhares
+320330 ES Manten�polis
+320332 ES Marata�zes
+320334 ES Marechal Floriano
+320335 ES Maril�ndia
+320340 ES Mimoso do Sul
+320350 ES Montanha
+320360 ES Mucurici
+320370 ES Muniz Freire
+320380 ES Muqui
+320390 ES Nova Ven�cia
+320400 ES Pancas
+320405 ES Pedro Can�rio
+320410 ES Pinheiros
+320420 ES Pi�ma
+320425 ES Ponto Belo
+320430 ES Presidente Kennedy
+320435 ES Rio Bananal
+320440 ES Rio Novo do Sul
+320450 ES Santa Leopoldina
+320455 ES Santa Maria de Jetib�
+320460 ES Santa Teresa
+320465 ES S�o Domingos do Norte
+320470 ES S�o Gabriel da Palha
+320480 ES S�o Jos� do Cal�ado
+320490 ES S�o Mateus
+320495 ES S�o Roque do Cana�
+320500 ES Serra
+320501 ES Sooretama
+320503 ES Vargem Alta
+320506 ES Venda Nova do Imigrante
+320510 ES Viana
+320515 ES Vila Pav�o
+320517 ES Vila Val�rio
+320520 ES Vila Velha
+320530 ES Vit�ria
+330010 RJ Angra dos Reis
+330015 RJ Aperib�
+330020 RJ Araruama
+330022 RJ Areal
+330023 RJ Arma��o dos B�zios
+330025 RJ Arraial do Cabo
+330030 RJ Barra do Pira�
+330040 RJ Barra Mansa
+330045 RJ Belford Roxo
+330050 RJ Bom Jardim
+330060 RJ Bom Jesus do Itabapoana
+330070 RJ Cabo Frio
+330080 RJ Cachoeiras de Macacu
+330090 RJ Cambuci
+330093 RJ Carapebus
+330095 RJ Comendador Levy Gasparian
+330100 RJ Campos dos Goytacazes
+330110 RJ Cantagalo
+330115 RJ Cardoso Moreira
+330120 RJ Carmo
+330130 RJ Casimiro de Abreu
+330140 RJ Concei��o de Macabu
+330150 RJ Cordeiro
+330160 RJ Duas Barras
+330170 RJ Duque de Caxias
+330180 RJ Engenheiro Paulo de Frontin
+330185 RJ Guapimirim
+330187 RJ Iguaba Grande
+330190 RJ Itabora�
+330200 RJ Itagua�
+330205 RJ Italva
+330210 RJ Itaocara
+330220 RJ Itaperuna
+330225 RJ Itatiaia
+330227 RJ Japeri
+330230 RJ Laje do Muria�
+330240 RJ Maca�
+330245 RJ Macuco
+330250 RJ Mag�
+330260 RJ Mangaratiba
+330270 RJ Maric�
+330280 RJ Mendes
+330285 RJ Mesquita
+330290 RJ Miguel Pereira
+330300 RJ Miracema
+330310 RJ Natividade
+330320 RJ Nil�polis
+330330 RJ Niter�i
+330340 RJ Nova Friburgo
+330350 RJ Nova Igua�u
+330360 RJ Paracambi
+330370 RJ Para�ba do Sul
+330380 RJ Parati
+330385 RJ Paty do Alferes
+330390 RJ Petr�polis
+330395 RJ Pinheiral
+330400 RJ Pira�
+330410 RJ Porci�ncula
+330411 RJ Porto Real
+330412 RJ Quatis
+330414 RJ Queimados
+330415 RJ Quissam�
+330420 RJ Resende
+330430 RJ Rio Bonito
+330440 RJ Rio Claro
+330450 RJ Rio das Flores
+330452 RJ Rio das Ostras
+330455 RJ Rio de Janeiro
+330460 RJ Santa Maria Madalena
+330470 RJ Santo Ant�nio de P�dua
+330475 RJ S�o Francisco de Itabapoana
+330480 RJ S�o Fid�lis
+330490 RJ S�o Gon�alo
+330500 RJ S�o Jo�o da Barra
+330510 RJ S�o Jo�o de Meriti
+330513 RJ S�o Jos� de Ub�
+330515 RJ S�o Jos� do Vale do Rio Preto
+330520 RJ S�o Pedro da Aldeia
+330530 RJ S�o Sebasti�o do Alto
+330540 RJ Sapucaia
+330550 RJ Saquarema
+330555 RJ Serop�dica
+330560 RJ Silva Jardim
+330570 RJ Sumidouro
+330575 RJ Tangu�
+330580 RJ Teres�polis
+330590 RJ Trajano de Moraes
+330600 RJ Tr�s Rios
+330610 RJ Valen�a
+330615 RJ Varre-Sai
+330620 RJ Vassouras
+330630 RJ Volta Redonda
+350010 SP Adamantina
+350020 SP Adolfo
+350030 SP Agua�
+350040 SP �guas da Prata
+350050 SP �guas de Lind�ia
+350055 SP �guas de Santa B�rbara
+350060 SP �guas de S�o Pedro
+350070 SP Agudos
+350075 SP Alambari
+350080 SP Alfredo Marcondes
+350090 SP Altair
+350100 SP Altin�polis
+350110 SP Alto Alegre
+350115 SP Alum�nio
+350120 SP �lvares Florence
+350130 SP �lvares Machado
+350140 SP �lvaro de Carvalho
+350150 SP Alvinl�ndia
+350160 SP Americana
+350170 SP Am�rico Brasiliense
+350180 SP Am�rico de Campos
+350190 SP Amparo
+350200 SP Anal�ndia
+350210 SP Andradina
+350220 SP Angatuba
+350230 SP Anhembi
+350240 SP Anhumas
+350250 SP Aparecida
+350260 SP Aparecida d`Oeste
+350270 SP Apia�
+350275 SP Ara�ariguama
+350280 SP Ara�atuba
+350290 SP Ara�oiaba da Serra
+350300 SP Aramina
+350310 SP Arandu
+350315 SP Arape�
+350320 SP Araraquara
+350330 SP Araras
+350335 SP Arco-�ris
+350340 SP Arealva
+350350 SP Areias
+350360 SP Arei�polis
+350370 SP Ariranha
+350380 SP Artur Nogueira
+350390 SP Aruj�
+350395 SP Asp�sia
+350400 SP Assis
+350410 SP Atibaia
+350420 SP Auriflama
+350430 SP Ava�
+350440 SP Avanhandava
+350450 SP Avar�
+350460 SP Bady Bassitt
+350470 SP Balbinos
+350480 SP B�lsamo
+350490 SP Bananal
+350500 SP Bar�o de Antonina
+350510 SP Barbosa
+350520 SP Bariri
+350530 SP Barra Bonita
+350535 SP Barra do Chap�u
+350540 SP Barra do Turvo
+350550 SP Barretos
+350560 SP Barrinha
+350570 SP Barueri
+350580 SP Bastos
+350590 SP Batatais
+350600 SP Bauru
+350610 SP Bebedouro
+350620 SP Bento de Abreu
+350630 SP Bernardino de Campos
+350635 SP Bertioga
+350640 SP Bilac
+350650 SP Birigui
+350660 SP Biritiba-Mirim
+350670 SP Boa Esperan�a do Sul
+350680 SP Bocaina
+350690 SP Bofete
+350700 SP Boituva
+350710 SP Bom Jesus dos Perd�es
+350715 SP Bom Sucesso de Itarar�
+350720 SP Bor�
+350730 SP Borac�ia
+350740 SP Borborema
+350745 SP Borebi
+350750 SP Botucatu
+350760 SP Bragan�a Paulista
+350770 SP Bra�na
+350775 SP Brejo Alegre
+350780 SP Brodowski
+350790 SP Brotas
+350800 SP Buri
+350810 SP Buritama
+350820 SP Buritizal
+350830 SP Cabr�lia Paulista
+350840 SP Cabre�va
+350850 SP Ca�apava
+350860 SP Cachoeira Paulista
+350870 SP Caconde
+350880 SP Cafel�ndia
+350890 SP Caiabu
+350900 SP Caieiras
+350910 SP Caiu�
+350920 SP Cajamar
+350925 SP Cajati
+350930 SP Cajobi
+350940 SP Cajuru
+350945 SP Campina do Monte Alegre
+350950 SP Campinas
+350960 SP Campo Limpo Paulista
+350970 SP Campos do Jord�o
+350980 SP Campos Novos Paulista
+350990 SP Canan�ia
+350995 SP Canas
+351000 SP C�ndido Mota
+351010 SP C�ndido Rodrigues
+351015 SP Canitar
+351020 SP Cap�o Bonito
+351030 SP Capela do Alto
+351040 SP Capivari
+351050 SP Caraguatatuba
+351060 SP Carapicu�ba
+351070 SP Cardoso
+351080 SP Casa Branca
+351090 SP C�ssia dos Coqueiros
+351100 SP Castilho
+351110 SP Catanduva
+351120 SP Catigu�
+351130 SP Cedral
+351140 SP Cerqueira C�sar
+351150 SP Cerquilho
+351160 SP Ces�rio Lange
+351170 SP Charqueada
+351190 SP Clementina
+351200 SP Colina
+351210 SP Col�mbia
+351220 SP Conchal
+351230 SP Conchas
+351240 SP Cordeir�polis
+351250 SP Coroados
+351260 SP Coronel Macedo
+351270 SP Corumbata�
+351280 SP Cosm�polis
+351290 SP Cosmorama
+351300 SP Cotia
+351310 SP Cravinhos
+351320 SP Cristais Paulista
+351330 SP Cruz�lia
+351340 SP Cruzeiro
+351350 SP Cubat�o
+351360 SP Cunha
+351370 SP Descalvado
+351380 SP Diadema
+351385 SP Dirce Reis
+351390 SP Divinol�ndia
+351400 SP Dobrada
+351410 SP Dois C�rregos
+351420 SP Dolcin�polis
+351430 SP Dourado
+351440 SP Dracena
+351450 SP Duartina
+351460 SP Dumont
+351470 SP Echapor�
+351480 SP Eldorado
+351490 SP Elias Fausto
+351492 SP Elisi�rio
+351495 SP Emba�ba
+351500 SP Embu das Artes
+351510 SP Embu-Gua�u
+351512 SP Emilian�polis
+351515 SP Engenheiro Coelho
+351518 SP Esp�rito Santo do Pinhal
+351519 SP Esp�rito Santo do Turvo
+351520 SP Estrela d`Oeste
+351530 SP Estrela do Norte
+351535 SP Euclides da Cunha Paulista
+351540 SP Fartura
+351550 SP Fernand�polis
+351560 SP Fernando Prestes
+351565 SP Fern�o
+351570 SP Ferraz de Vasconcelos
+351580 SP Flora Rica
+351590 SP Floreal
+351600 SP Fl�rida Paulista
+351610 SP Flor�nia
+351620 SP Franca
+351630 SP Francisco Morato
+351640 SP Franco da Rocha
+351650 SP Gabriel Monteiro
+351660 SP G�lia
+351670 SP Gar�a
+351680 SP Gast�o Vidigal
+351685 SP Gavi�o Peixoto
+351690 SP General Salgado
+351700 SP Getulina
+351710 SP Glic�rio
+351720 SP Guai�ara
+351730 SP Guaimb�
+351740 SP Gua�ra
+351750 SP Guapia�u
+351760 SP Guapiara
+351770 SP Guar�
+351780 SP Guara�a�
+351790 SP Guaraci
+351800 SP Guarani d`Oeste
+351810 SP Guarant�
+351820 SP Guararapes
+351830 SP Guararema
+351840 SP Guaratinguet�
+351850 SP Guare�
+351860 SP Guariba
+351870 SP Guaruj�
+351880 SP Guarulhos
+351885 SP Guatapar�
+351890 SP Guzol�ndia
+351900 SP Hercul�ndia
+351905 SP Holambra
+351907 SP Hortol�ndia
+351910 SP Iacanga
+351920 SP Iacri
+351925 SP Iaras
+351930 SP Ibat�
+351940 SP Ibir�
+351950 SP Ibirarema
+351960 SP Ibitinga
+351970 SP Ibi�na
+351980 SP Ic�m
+351990 SP Iep�
+352000 SP Igara�u do Tiet�
+352010 SP Igarapava
+352020 SP Igarat�
+352030 SP Iguape
+352040 SP Ilhabela
+352042 SP Ilha Comprida
+352044 SP Ilha Solteira
+352050 SP Indaiatuba
+352060 SP Indiana
+352070 SP Indiapor�
+352080 SP In�bia Paulista
+352090 SP Ipaussu
+352100 SP Iper�
+352110 SP Ipe�na
+352115 SP Ipigu�
+352120 SP Iporanga
+352130 SP Ipu�
+352140 SP Iracem�polis
+352150 SP Irapu�
+352160 SP Irapuru
+352170 SP Itaber�
+352180 SP Ita�
+352190 SP Itajobi
+352200 SP Itaju
+352210 SP Itanha�m
+352215 SP Ita�ca
+352220 SP Itapecerica da Serra
+352230 SP Itapetininga
+352240 SP Itapeva
+352250 SP Itapevi
+352260 SP Itapira
+352265 SP Itapirapu� Paulista
+352270 SP It�polis
+352280 SP Itaporanga
+352290 SP Itapu�
+352300 SP Itapura
+352310 SP Itaquaquecetuba
+352320 SP Itarar�
+352330 SP Itariri
+352340 SP Itatiba
+352350 SP Itatinga
+352360 SP Itirapina
+352370 SP Itirapu�
+352380 SP Itobi
+352390 SP Itu
+352400 SP Itupeva
+352410 SP Ituverava
+352420 SP Jaborandi
+352430 SP Jaboticabal
+352440 SP Jacare�
+352450 SP Jaci
+352460 SP Jacupiranga
+352470 SP Jaguari�na
+352480 SP Jales
+352490 SP Jambeiro
+352500 SP Jandira
+352510 SP Jardin�polis
+352520 SP Jarinu
+352530 SP Ja�
+352540 SP Jeriquara
+352550 SP Joan�polis
+352560 SP Jo�o Ramalho
+352570 SP Jos� Bonif�cio
+352580 SP J�lio Mesquita
+352585 SP Jumirim
+352590 SP Jundia�
+352600 SP Junqueir�polis
+352610 SP Juqui�
+352620 SP Juquitiba
+352630 SP Lagoinha
+352640 SP Laranjal Paulista
+352650 SP Lav�nia
+352660 SP Lavrinhas
+352670 SP Leme
+352680 SP Len��is Paulista
+352690 SP Limeira
+352700 SP Lind�ia
+352710 SP Lins
+352720 SP Lorena
+352725 SP Lourdes
+352730 SP Louveira
+352740 SP Luc�lia
+352750 SP Lucian�polis
+352760 SP Lu�s Ant�nio
+352770 SP Luizi�nia
+352780 SP Lup�rcio
+352790 SP Lut�cia
+352800 SP Macatuba
+352810 SP Macaubal
+352820 SP Maced�nia
+352830 SP Magda
+352840 SP Mairinque
+352850 SP Mairipor�
+352860 SP Manduri
+352870 SP Marab� Paulista
+352880 SP Maraca�
+352885 SP Marapoama
+352890 SP Mari�polis
+352900 SP Mar�lia
+352910 SP Marin�polis
+352920 SP Martin�polis
+352930 SP Mat�o
+352940 SP Mau�
+352950 SP Mendon�a
+352960 SP Meridiano
+352965 SP Mes�polis
+352970 SP Miguel�polis
+352980 SP Mineiros do Tiet�
+352990 SP Miracatu
+353000 SP Mira Estrela
+353010 SP Mirand�polis
+353020 SP Mirante do Paranapanema
+353030 SP Mirassol
+353040 SP Mirassol�ndia
+353050 SP Mococa
+353060 SP Mogi das Cruzes
+353070 SP Mogi Gua�u
+353080 SP Moji Mirim
+353090 SP Mombuca
+353100 SP Mon��es
+353110 SP Mongagu�
+353120 SP Monte Alegre do Sul
+353130 SP Monte Alto
+353140 SP Monte Apraz�vel
+353150 SP Monte Azul Paulista
+353160 SP Monte Castelo
+353170 SP Monteiro Lobato
+353180 SP Monte Mor
+353190 SP Morro Agudo
+353200 SP Morungaba
+353205 SP Motuca
+353210 SP Murutinga do Sul
+353215 SP Nantes
+353220 SP Narandiba
+353230 SP Natividade da Serra
+353240 SP Nazar� Paulista
+353250 SP Neves Paulista
+353260 SP Nhandeara
+353270 SP Nipo�
+353280 SP Nova Alian�a
+353282 SP Nova Campina
+353284 SP Nova Cana� Paulista
+353286 SP Nova Castilho
+353290 SP Nova Europa
+353300 SP Nova Granada
+353310 SP Nova Guataporanga
+353320 SP Nova Independ�ncia
+353325 SP Novais
+353330 SP Nova Luzit�nia
+353340 SP Nova Odessa
+353350 SP Novo Horizonte
+353360 SP Nuporanga
+353370 SP Ocau�u
+353380 SP �leo
+353390 SP Ol�mpia
+353400 SP Onda Verde
+353410 SP Oriente
+353420 SP Orindi�va
+353430 SP Orl�ndia
+353440 SP Osasco
+353450 SP Oscar Bressane
+353460 SP Osvaldo Cruz
+353470 SP Ourinhos
+353475 SP Ouroeste
+353480 SP Ouro Verde
+353490 SP Pacaembu
+353500 SP Palestina
+353510 SP Palmares Paulista
+353520 SP Palmeira d`Oeste
+353530 SP Palmital
+353540 SP Panorama
+353550 SP Paragua�u Paulista
+353560 SP Paraibuna
+353570 SP Para�so
+353580 SP Paranapanema
+353590 SP Paranapu�
+353600 SP Parapu�
+353610 SP Pardinho
+353620 SP Pariquera-A�u
+353625 SP Parisi
+353630 SP Patroc�nio Paulista
+353640 SP Paulic�ia
+353650 SP Paul�nia
+353657 SP Paulist�nia
+353660 SP Paulo de Faria
+353670 SP Pederneiras
+353680 SP Pedra Bela
+353690 SP Pedran�polis
+353700 SP Pedregulho
+353710 SP Pedreira
+353715 SP Pedrinhas Paulista
+353720 SP Pedro de Toledo
+353730 SP Pen�polis
+353740 SP Pereira Barreto
+353750 SP Pereiras
+353760 SP Peru�be
+353770 SP Piacatu
+353780 SP Piedade
+353790 SP Pilar do Sul
+353800 SP Pindamonhangaba
+353810 SP Pindorama
+353820 SP Pinhalzinho
+353830 SP Piquerobi
+353850 SP Piquete
+353860 SP Piracaia
+353870 SP Piracicaba
+353880 SP Piraju
+353890 SP Piraju�
+353900 SP Pirangi
+353910 SP Pirapora do Bom Jesus
+353920 SP Pirapozinho
+353930 SP Pirassununga
+353940 SP Piratininga
+353950 SP Pitangueiras
+353960 SP Planalto
+353970 SP Platina
+353980 SP Po�
+353990 SP Poloni
+354000 SP Pomp�ia
+354010 SP Ponga�
+354020 SP Pontal
+354025 SP Pontalinda
+354030 SP Pontes Gestal
+354040 SP Populina
+354050 SP Porangaba
+354060 SP Porto Feliz
+354070 SP Porto Ferreira
+354075 SP Potim
+354080 SP Potirendaba
+354085 SP Pracinha
+354090 SP Prad�polis
+354100 SP Praia Grande
+354105 SP Prat�nia
+354110 SP Presidente Alves
+354120 SP Presidente Bernardes
+354130 SP Presidente Epit�cio
+354140 SP Presidente Prudente
+354150 SP Presidente Venceslau
+354160 SP Promiss�o
+354165 SP Quadra
+354170 SP Quat�
+354180 SP Queiroz
+354190 SP Queluz
+354200 SP Quintana
+354210 SP Rafard
+354220 SP Rancharia
+354230 SP Reden��o da Serra
+354240 SP Regente Feij�
+354250 SP Regin�polis
+354260 SP Registro
+354270 SP Restinga
+354280 SP Ribeira
+354290 SP Ribeir�o Bonito
+354300 SP Ribeir�o Branco
+354310 SP Ribeir�o Corrente
+354320 SP Ribeir�o do Sul
+354323 SP Ribeir�o dos �ndios
+354325 SP Ribeir�o Grande
+354330 SP Ribeir�o Pires
+354340 SP Ribeir�o Preto
+354350 SP Riversul
+354360 SP Rifaina
+354370 SP Rinc�o
+354380 SP Rin�polis
+354390 SP Rio Claro
+354400 SP Rio das Pedras
+354410 SP Rio Grande da Serra
+354420 SP Riol�ndia
+354425 SP Rosana
+354430 SP Roseira
+354440 SP Rubi�cea
+354450 SP Rubin�ia
+354460 SP Sabino
+354470 SP Sagres
+354480 SP Sales
+354490 SP Sales Oliveira
+354500 SP Sales�polis
+354510 SP Salmour�o
+354515 SP Saltinho
+354520 SP Salto
+354530 SP Salto de Pirapora
+354540 SP Salto Grande
+354550 SP Sandovalina
+354560 SP Santa Ad�lia
+354570 SP Santa Albertina
+354580 SP Santa B�rbara d`Oeste
+354600 SP Santa Branca
+354610 SP Santa Clara d`Oeste
+354620 SP Santa Cruz da Concei��o
+354625 SP Santa Cruz da Esperan�a
+354630 SP Santa Cruz das Palmeiras
+354640 SP Santa Cruz do Rio Pardo
+354650 SP Santa Ernestina
+354660 SP Santa F� do Sul
+354670 SP Santa Gertrudes
+354680 SP Santa Isabel
+354690 SP Santa L�cia
+354700 SP Santa Maria da Serra
+354710 SP Santa Mercedes
+354720 SP Santana da Ponte Pensa
+354730 SP Santana de Parna�ba
+354740 SP Santa Rita d`Oeste
+354750 SP Santa Rita do Passa Quatro
+354760 SP Santa Rosa de Viterbo
+354765 SP Santa Salete
+354770 SP Santo Anast�cio
+354780 SP Santo Andr�
+354790 SP Santo Ant�nio da Alegria
+354800 SP Santo Ant�nio de Posse
+354805 SP Santo Ant�nio do Aracangu�
+354810 SP Santo Ant�nio do Jardim
+354820 SP Santo Ant�nio do Pinhal
+354830 SP Santo Expedito
+354840 SP Sant�polis do Aguape�
+354850 SP Santos
+354860 SP S�o Bento do Sapuca�
+354870 SP S�o Bernardo do Campo
+354880 SP S�o Caetano do Sul
+354890 SP S�o Carlos
+354900 SP S�o Francisco
+354910 SP S�o Jo�o da Boa Vista
+354920 SP S�o Jo�o das Duas Pontes
+354925 SP S�o Jo�o de Iracema
+354930 SP S�o Jo�o do Pau d`Alho
+354940 SP S�o Joaquim da Barra
+354950 SP S�o Jos� da Bela Vista
+354960 SP S�o Jos� do Barreiro
+354970 SP S�o Jos� do Rio Pardo
+354980 SP S�o Jos� do Rio Preto
+354990 SP S�o Jos� dos Campos
+354995 SP S�o Louren�o da Serra
+355000 SP S�o Lu�s do Paraitinga
+355010 SP S�o Manuel
+355020 SP S�o Miguel Arcanjo
+355030 SP S�o Paulo
+355040 SP S�o Pedro
+355050 SP S�o Pedro do Turvo
+355060 SP S�o Roque
+355070 SP S�o Sebasti�o
+355080 SP S�o Sebasti�o da Grama
+355090 SP S�o Sim�o
+355100 SP S�o Vicente
+355110 SP Sarapu�
+355120 SP Sarutai�
+355130 SP Sebastian�polis do Sul
+355140 SP Serra Azul
+355150 SP Serrana
+355160 SP Serra Negra
+355170 SP Sert�ozinho
+355180 SP Sete Barras
+355190 SP Sever�nia
+355200 SP Silveiras
+355210 SP Socorro
+355220 SP Sorocaba
+355230 SP Sud Mennucci
+355240 SP Sumar�
+355250 SP Suzano
+355255 SP Suzan�polis
+355260 SP Tabapu�
+355270 SP Tabatinga
+355280 SP Tabo�o da Serra
+355290 SP Taciba
+355300 SP Tagua�
+355310 SP Taia�u
+355320 SP Tai�va
+355330 SP Tamba�
+355340 SP Tanabi
+355350 SP Tapira�
+355360 SP Tapiratiba
+355365 SP Taquaral
+355370 SP Taquaritinga
+355380 SP Taquarituba
+355385 SP Taquariva�
+355390 SP Tarabai
+355395 SP Tarum�
+355400 SP Tatu�
+355410 SP Taubat�
+355420 SP Tejup�
+355430 SP Teodoro Sampaio
+355440 SP Terra Roxa
+355450 SP Tiet�
+355460 SP Timburi
+355465 SP Torre de Pedra
+355470 SP Torrinha
+355475 SP Trabiju
+355480 SP Trememb�
+355490 SP Tr�s Fronteiras
+355495 SP Tuiuti
+355500 SP Tup�
+355510 SP Tupi Paulista
+355520 SP Turi�ba
+355530 SP Turmalina
+355535 SP Ubarana
+355540 SP Ubatuba
+355550 SP Ubirajara
+355560 SP Uchoa
+355570 SP Uni�o Paulista
+355580 SP Ur�nia
+355590 SP Uru
+355600 SP Urup�s
+355610 SP Valentim Gentil
+355620 SP Valinhos
+355630 SP Valpara�so
+355635 SP Vargem
+355640 SP Vargem Grande do Sul
+355645 SP Vargem Grande Paulista
+355650 SP V�rzea Paulista
+355660 SP Vera Cruz
+355670 SP Vinhedo
+355680 SP Viradouro
+355690 SP Vista Alegre do Alto
+355695 SP Vit�ria Brasil
+355700 SP Votorantim
+355710 SP Votuporanga
+355715 SP Zacarias
+355720 SP Chavantes
+355730 SP Estiva Gerbi
+410010 PR Abati�
+410020 PR Adrian�polis
+410030 PR Agudos do Sul
+410040 PR Almirante Tamandar�
+410045 PR Altamira do Paran�
+410050 PR Alt�nia
+410060 PR Alto Paran�
+410070 PR Alto Piquiri
+410080 PR Alvorada do Sul
+410090 PR Amapor�
+410100 PR Amp�re
+410105 PR Anahy
+410110 PR Andir�
+410115 PR �ngulo
+410120 PR Antonina
+410130 PR Ant�nio Olinto
+410140 PR Apucarana
+410150 PR Arapongas
+410160 PR Arapoti
+410165 PR Arapu�
+410170 PR Araruna
+410180 PR Arauc�ria
+410185 PR Ariranha do Iva�
+410190 PR Assa�
+410200 PR Assis Chateaubriand
+410210 PR Astorga
+410220 PR Atalaia
+410230 PR Balsa Nova
+410240 PR Bandeirantes
+410250 PR Barbosa Ferraz
+410260 PR Barrac�o
+410270 PR Barra do Jacar�
+410275 PR Bela Vista da Caroba
+410280 PR Bela Vista do Para�so
+410290 PR Bituruna
+410300 PR Boa Esperan�a
+410302 PR Boa Esperan�a do Igua�u
+410304 PR Boa Ventura de S�o Roque
+410305 PR Boa Vista da Aparecida
+410310 PR Bocai�va do Sul
+410315 PR Bom Jesus do Sul
+410320 PR Bom Sucesso
+410322 PR Bom Sucesso do Sul
+410330 PR Borraz�polis
+410335 PR Braganey
+410337 PR Brasil�ndia do Sul
+410340 PR Cafeara
+410345 PR Cafel�ndia
+410347 PR Cafezal do Sul
+410350 PR Calif�rnia
+410360 PR Cambar�
+410370 PR Camb�
+410380 PR Cambira
+410390 PR Campina da Lagoa
+410395 PR Campina do Sim�o
+410400 PR Campina Grande do Sul
+410405 PR Campo Bonito
+410410 PR Campo do Tenente
+410420 PR Campo Largo
+410425 PR Campo Magro
+410430 PR Campo Mour�o
+410440 PR C�ndido de Abreu
+410442 PR Cand�i
+410445 PR Cantagalo
+410450 PR Capanema
+410460 PR Capit�o Le�nidas Marques
+410465 PR Carambe�
+410470 PR Carl�polis
+410480 PR Cascavel
+410490 PR Castro
+410500 PR Catanduvas
+410510 PR Centen�rio do Sul
+410520 PR Cerro Azul
+410530 PR C�u Azul
+410540 PR Chopinzinho
+410550 PR Cianorte
+410560 PR Cidade Ga�cha
+410570 PR Clevel�ndia
+410580 PR Colombo
+410590 PR Colorado
+410600 PR Congonhinhas
+410610 PR Conselheiro Mairinck
+410620 PR Contenda
+410630 PR Corb�lia
+410640 PR Corn�lio Proc�pio
+410645 PR Coronel Domingos Soares
+410650 PR Coronel Vivida
+410655 PR Corumbata� do Sul
+410657 PR Cruzeiro do Igua�u
+410660 PR Cruzeiro do Oeste
+410670 PR Cruzeiro do Sul
+410680 PR Cruz Machado
+410685 PR Cruzmaltina
+410690 PR Curitiba
+410700 PR Curi�va
+410710 PR Diamante do Norte
+410712 PR Diamante do Sul
+410715 PR Diamante d`Oeste
+410720 PR Dois Vizinhos
+410725 PR Douradina
+410730 PR Doutor Camargo
+410740 PR En�as Marques
+410750 PR Engenheiro Beltr�o
+410752 PR Esperan�a Nova
+410753 PR Entre Rios do Oeste
+410754 PR Espig�o Alto do Igua�u
+410755 PR Farol
+410760 PR Faxinal
+410765 PR Fazenda Rio Grande
+410770 PR F�nix
+410773 PR Fernandes Pinheiro
+410775 PR Figueira
+410780 PR Flora�
+410785 PR Flor da Serra do Sul
+410790 PR Floresta
+410800 PR Florest�polis
+410810 PR Fl�rida
+410820 PR Formosa do Oeste
+410830 PR Foz do Igua�u
+410832 PR Francisco Alves
+410840 PR Francisco Beltr�o
+410845 PR Foz do Jord�o
+410850 PR General Carneiro
+410855 PR Godoy Moreira
+410860 PR Goioer�
+410865 PR Goioxim
+410870 PR Grandes Rios
+410880 PR Gua�ra
+410890 PR Guaira��
+410895 PR Guamiranga
+410900 PR Guapirama
+410910 PR Guaporema
+410920 PR Guaraci
+410930 PR Guarania�u
+410940 PR Guarapuava
+410950 PR Guaraque�aba
+410960 PR Guaratuba
+410965 PR Hon�rio Serpa
+410970 PR Ibaiti
+410975 PR Ibema
+410980 PR Ibipor�
+410990 PR Icara�ma
+411000 PR Iguara�u
+411005 PR Iguatu
+411007 PR Imba�
+411010 PR Imbituva
+411020 PR In�cio Martins
+411030 PR Inaj�
+411040 PR Indian�polis
+411050 PR Ipiranga
+411060 PR Ipor�
+411065 PR Iracema do Oeste
+411070 PR Irati
+411080 PR Iretama
+411090 PR Itaguaj�
+411095 PR Itaipul�ndia
+411100 PR Itambarac�
+411110 PR Itamb�
+411120 PR Itapejara d`Oeste
+411125 PR Itaperu�u
+411130 PR Ita�na do Sul
+411140 PR Iva�
+411150 PR Ivaipor�
+411155 PR Ivat�
+411160 PR Ivatuba
+411170 PR Jaboti
+411180 PR Jacarezinho
+411190 PR Jaguapit�
+411200 PR Jaguaria�va
+411210 PR Jandaia do Sul
+411220 PR Jani�polis
+411230 PR Japira
+411240 PR Japur�
+411250 PR Jardim Alegre
+411260 PR Jardim Olinda
+411270 PR Jataizinho
+411275 PR Jesu�tas
+411280 PR Joaquim T�vora
+411290 PR Jundia� do Sul
+411295 PR Juranda
+411300 PR Jussara
+411310 PR Kalor�
+411320 PR Lapa
+411325 PR Laranjal
+411330 PR Laranjeiras do Sul
+411340 PR Le�polis
+411342 PR Lidian�polis
+411345 PR Lindoeste
+411350 PR Loanda
+411360 PR Lobato
+411370 PR Londrina
+411373 PR Luiziana
+411375 PR Lunardelli
+411380 PR Lupion�polis
+411390 PR Mallet
+411400 PR Mambor�
+411410 PR Mandagua�u
+411420 PR Mandaguari
+411430 PR Mandirituba
+411435 PR Manfrin�polis
+411440 PR Mangueirinha
+411450 PR Manoel Ribas
+411460 PR Marechal C�ndido Rondon
+411470 PR Maria Helena
+411480 PR Marialva
+411490 PR Maril�ndia do Sul
+411500 PR Marilena
+411510 PR Mariluz
+411520 PR Maring�
+411530 PR Mari�polis
+411535 PR Marip�
+411540 PR Marmeleiro
+411545 PR Marquinho
+411550 PR Marumbi
+411560 PR Matel�ndia
+411570 PR Matinhos
+411573 PR Mato Rico
+411575 PR Mau� da Serra
+411580 PR Medianeira
+411585 PR Mercedes
+411590 PR Mirador
+411600 PR Miraselva
+411605 PR Missal
+411610 PR Moreira Sales
+411620 PR Morretes
+411630 PR Munhoz de Melo
+411640 PR Nossa Senhora das Gra�as
+411650 PR Nova Alian�a do Iva�
+411660 PR Nova Am�rica da Colina
+411670 PR Nova Aurora
+411680 PR Nova Cantu
+411690 PR Nova Esperan�a
+411695 PR Nova Esperan�a do Sudoeste
+411700 PR Nova F�tima
+411705 PR Nova Laranjeiras
+411710 PR Nova Londrina
+411720 PR Nova Ol�mpia
+411721 PR Nova Santa B�rbara
+411722 PR Nova Santa Rosa
+411725 PR Nova Prata do Igua�u
+411727 PR Nova Tebas
+411729 PR Novo Itacolomi
+411730 PR Ortigueira
+411740 PR Ourizona
+411745 PR Ouro Verde do Oeste
+411750 PR Pai�andu
+411760 PR Palmas
+411770 PR Palmeira
+411780 PR Palmital
+411790 PR Palotina
+411800 PR Para�so do Norte
+411810 PR Paranacity
+411820 PR Paranagu�
+411830 PR Paranapoema
+411840 PR Paranava�
+411845 PR Pato Bragado
+411850 PR Pato Branco
+411860 PR Paula Freitas
+411870 PR Paulo Frontin
+411880 PR Peabiru
+411885 PR Perobal
+411890 PR P�rola
+411900 PR P�rola d`Oeste
+411910 PR Pi�n
+411915 PR Pinhais
+411920 PR Pinhal�o
+411925 PR Pinhal de S�o Bento
+411930 PR Pinh�o
+411940 PR Pira� do Sul
+411950 PR Piraquara
+411960 PR Pitanga
+411965 PR Pitangueiras
+411970 PR Planaltina do Paran�
+411980 PR Planalto
+411990 PR Ponta Grossa
+411995 PR Pontal do Paran�
+412000 PR Porecatu
+412010 PR Porto Amazonas
+412015 PR Porto Barreiro
+412020 PR Porto Rico
+412030 PR Porto Vit�ria
+412033 PR Prado Ferreira
+412035 PR Pranchita
+412040 PR Presidente Castelo Branco
+412050 PR Primeiro de Maio
+412060 PR Prudent�polis
+412065 PR Quarto Centen�rio
+412070 PR Quatigu�
+412080 PR Quatro Barras
+412085 PR Quatro Pontes
+412090 PR Quedas do Igua�u
+412100 PR Quer�ncia do Norte
+412110 PR Quinta do Sol
+412120 PR Quitandinha
+412125 PR Ramil�ndia
+412130 PR Rancho Alegre
+412135 PR Rancho Alegre d`Oeste
+412140 PR Realeza
+412150 PR Rebou�as
+412160 PR Renascen�a
+412170 PR Reserva
+412175 PR Reserva do Igua�u
+412180 PR Ribeir�o Claro
+412190 PR Ribeir�o do Pinhal
+412200 PR Rio Azul
+412210 PR Rio Bom
+412215 PR Rio Bonito do Igua�u
+412217 PR Rio Branco do Iva�
+412220 PR Rio Branco do Sul
+412230 PR Rio Negro
+412240 PR Rol�ndia
+412250 PR Roncador
+412260 PR Rondon
+412265 PR Ros�rio do Iva�
+412270 PR Sab�udia
+412280 PR Salgado Filho
+412290 PR Salto do Itarar�
+412300 PR Salto do Lontra
+412310 PR Santa Am�lia
+412320 PR Santa Cec�lia do Pav�o
+412330 PR Santa Cruz de Monte Castelo
+412340 PR Santa F�
+412350 PR Santa Helena
+412360 PR Santa In�s
+412370 PR Santa Isabel do Iva�
+412380 PR Santa Izabel do Oeste
+412382 PR Santa L�cia
+412385 PR Santa Maria do Oeste
+412390 PR Santa Mariana
+412395 PR Santa M�nica
+412400 PR Santana do Itarar�
+412402 PR Santa Tereza do Oeste
+412405 PR Santa Terezinha de Itaipu
+412410 PR Santo Ant�nio da Platina
+412420 PR Santo Ant�nio do Caiu�
+412430 PR Santo Ant�nio do Para�so
+412440 PR Santo Ant�nio do Sudoeste
+412450 PR Santo In�cio
+412460 PR S�o Carlos do Iva�
+412470 PR S�o Jer�nimo da Serra
+412480 PR S�o Jo�o
+412490 PR S�o Jo�o do Caiu�
+412500 PR S�o Jo�o do Iva�
+412510 PR S�o Jo�o do Triunfo
+412520 PR S�o Jorge d`Oeste
+412530 PR S�o Jorge do Iva�
+412535 PR S�o Jorge do Patroc�nio
+412540 PR S�o Jos� da Boa Vista
+412545 PR S�o Jos� das Palmeiras
+412550 PR S�o Jos� dos Pinhais
+412555 PR S�o Manoel do Paran�
+412560 PR S�o Mateus do Sul
+412570 PR S�o Miguel do Igua�u
+412575 PR S�o Pedro do Igua�u
+412580 PR S�o Pedro do Iva�
+412590 PR S�o Pedro do Paran�
+412600 PR S�o Sebasti�o da Amoreira
+412610 PR S�o Tom�
+412620 PR Sapopema
+412625 PR Sarandi
+412627 PR Saudade do Igua�u
+412630 PR Seng�s
+412635 PR Serran�polis do Igua�u
+412640 PR Sertaneja
+412650 PR Sertan�polis
+412660 PR Siqueira Campos
+412665 PR Sulina
+412667 PR Tamarana
+412670 PR Tamboara
+412680 PR Tapejara
+412690 PR Tapira
+412700 PR Teixeira Soares
+412710 PR Tel�maco Borba
+412720 PR Terra Boa
+412730 PR Terra Rica
+412740 PR Terra Roxa
+412750 PR Tibagi
+412760 PR Tijucas do Sul
+412770 PR Toledo
+412780 PR Tomazina
+412785 PR Tr�s Barras do Paran�
+412788 PR Tunas do Paran�
+412790 PR Tuneiras do Oeste
+412795 PR Tup�ssi
+412796 PR Turvo
+412800 PR Ubirat�
+412810 PR Umuarama
+412820 PR Uni�o da Vit�ria
+412830 PR Uniflor
+412840 PR Ura�
+412850 PR Wenceslau Braz
+412853 PR Ventania
+412855 PR Vera Cruz do Oeste
+412860 PR Ver�
+412862 PR Alto Para�so
+412863 PR Doutor Ulysses
+412865 PR Virmond
+412870 PR Vitorino
+412880 PR Xambr�
+431413 RS Paulo Bento
+420005 SC Abdon Batista
+420010 SC Abelardo Luz
+420020 SC Agrol�ndia
+420030 SC Agron�mica
+420040 SC �gua Doce
+420050 SC �guas de Chapec�
+420055 SC �guas Frias
+420060 SC �guas Mornas
+420070 SC Alfredo Wagner
+420075 SC Alto Bela Vista
+420080 SC Anchieta
+420090 SC Angelina
+420100 SC Anita Garibaldi
+420110 SC Anit�polis
+420120 SC Ant�nio Carlos
+420125 SC Api�na
+420127 SC Arabut�
+420130 SC Araquari
+420140 SC Ararangu�
+420150 SC Armaz�m
+420160 SC Arroio Trinta
+420165 SC Arvoredo
+420170 SC Ascurra
+420180 SC Atalanta
+420190 SC Aurora
+420195 SC Balne�rio Arroio do Silva
+420200 SC Balne�rio Cambori�
+420205 SC Balne�rio Barra do Sul
+420207 SC Balne�rio Gaivota
+420208 SC Bandeirante
+420209 SC Barra Bonita
+420210 SC Barra Velha
+420213 SC Bela Vista do Toldo
+420215 SC Belmonte
+420220 SC Benedito Novo
+420230 SC Bigua�u
+420240 SC Blumenau
+420243 SC Bocaina do Sul
+420245 SC Bombinhas
+420250 SC Bom Jardim da Serra
+420253 SC Bom Jesus
+420257 SC Bom Jesus do Oeste
+420260 SC Bom Retiro
+420270 SC Botuver�
+420280 SC Bra�o do Norte
+420285 SC Bra�o do Trombudo
+420287 SC Brun�polis
+420290 SC Brusque
+420300 SC Ca�ador
+420310 SC Caibi
+420315 SC Calmon
+420320 SC Cambori�
+420325 SC Cap�o Alto
+420330 SC Campo Alegre
+420340 SC Campo Belo do Sul
+420350 SC Campo Er�
+420360 SC Campos Novos
+420370 SC Canelinha
+420380 SC Canoinhas
+420390 SC Capinzal
+420395 SC Capivari de Baixo
+420400 SC Catanduvas
+420410 SC Caxambu do Sul
+420415 SC Celso Ramos
+420417 SC Cerro Negro
+420419 SC Chapad�o do Lageado
+420420 SC Chapec�
+420425 SC Cocal do Sul
+420430 SC Conc�rdia
+420435 SC Cordilheira Alta
+420440 SC Coronel Freitas
+420445 SC Coronel Martins
+420450 SC Corup�
+420455 SC Correia Pinto
+420460 SC Crici�ma
+420470 SC Cunha Por�
+420475 SC Cunhata�
+420480 SC Curitibanos
+420490 SC Descanso
+420500 SC Dion�sio Cerqueira
+420510 SC Dona Emma
+420515 SC Doutor Pedrinho
+420517 SC Entre Rios
+420519 SC Ermo
+420520 SC Erval Velho
+420530 SC Faxinal dos Guedes
+420535 SC Flor do Sert�o
+420540 SC Florian�polis
+420543 SC Formosa do Sul
+420545 SC Forquilhinha
+420550 SC Fraiburgo
+420555 SC Frei Rog�rio
+420560 SC Galv�o
+420570 SC Garopaba
+420580 SC Garuva
+420590 SC Gaspar
+420600 SC Governador Celso Ramos
+420610 SC Gr�o Par�
+420620 SC Gravatal
+420630 SC Guabiruba
+420640 SC Guaraciaba
+420650 SC Guaramirim
+420660 SC Guaruj� do Sul
+420665 SC Guatamb�
+420670 SC Herval d`Oeste
+420675 SC Ibiam
+420680 SC Ibicar�
+420690 SC Ibirama
+420700 SC I�ara
+420710 SC Ilhota
+420720 SC Imaru�
+420730 SC Imbituba
+420740 SC Imbuia
+420750 SC Indaial
+420757 SC Iomer�
+420760 SC Ipira
+420765 SC Ipor� do Oeste
+420768 SC Ipua�u
+420770 SC Ipumirim
+420775 SC Iraceminha
+420780 SC Irani
+420785 SC Irati
+420790 SC Irine�polis
+420800 SC It�
+420810 SC Itai�polis
+420820 SC Itaja�
+420830 SC Itapema
+420840 SC Itapiranga
+420845 SC Itapo�
+420850 SC Ituporanga
+420860 SC Jabor�
+420870 SC Jacinto Machado
+420880 SC Jaguaruna
+420890 SC Jaragu� do Sul
+420895 SC Jardin�polis
+420900 SC Joa�aba
+420910 SC Joinville
+420915 SC Jos� Boiteux
+420917 SC Jupi�
+420920 SC Lacerd�polis
+420930 SC Lages
+420940 SC Laguna
+420945 SC Lajeado Grande
+420950 SC Laurentino
+420960 SC Lauro Muller
+420970 SC Lebon R�gis
+420980 SC Leoberto Leal
+420985 SC Lind�ia do Sul
+420990 SC Lontras
+421000 SC Luiz Alves
+421003 SC Luzerna
+421005 SC Macieira
+421010 SC Mafra
+421020 SC Major Gercino
+421030 SC Major Vieira
+421040 SC Maracaj�
+421050 SC Maravilha
+421055 SC Marema
+421060 SC Massaranduba
+421070 SC Matos Costa
+421080 SC Meleiro
+421085 SC Mirim Doce
+421090 SC Modelo
+421100 SC Monda�
+421105 SC Monte Carlo
+421110 SC Monte Castelo
+421120 SC Morro da Fuma�a
+421125 SC Morro Grande
+421130 SC Navegantes
+421140 SC Nova Erechim
+421145 SC Nova Itaberaba
+421150 SC Nova Trento
+421160 SC Nova Veneza
+421165 SC Novo Horizonte
+421170 SC Orleans
+421175 SC Otac�lio Costa
+421180 SC Ouro
+421185 SC Ouro Verde
+421187 SC Paial
+421189 SC Painel
+421190 SC Palho�a
+421200 SC Palma Sola
+421205 SC Palmeira
+421210 SC Palmitos
+421220 SC Papanduva
+421223 SC Para�so
+421225 SC Passo de Torres
+421227 SC Passos Maia
+421230 SC Paulo Lopes
+421240 SC Pedras Grandes
+421250 SC Penha
+421260 SC Peritiba
+421270 SC Petrol�ndia
+421280 SC Balne�rio Pi�arras
+421290 SC Pinhalzinho
+421300 SC Pinheiro Preto
+421310 SC Piratuba
+421315 SC Planalto Alegre
+421320 SC Pomerode
+421330 SC Ponte Alta
+421335 SC Ponte Alta do Norte
+421340 SC Ponte Serrada
+421350 SC Porto Belo
+421360 SC Porto Uni�o
+421370 SC Pouso Redondo
+421380 SC Praia Grande
+421390 SC Presidente Castello Branco
+421400 SC Presidente Get�lio
+421410 SC Presidente Nereu
+421415 SC Princesa
+421420 SC Quilombo
+421430 SC Rancho Queimado
+421440 SC Rio das Antas
+421450 SC Rio do Campo
+421460 SC Rio do Oeste
+421470 SC Rio dos Cedros
+421480 SC Rio do Sul
+421490 SC Rio Fortuna
+421500 SC Rio Negrinho
+421505 SC Rio Rufino
+421507 SC Riqueza
+421510 SC Rodeio
+421520 SC Romel�ndia
+421530 SC Salete
+421535 SC Saltinho
+421540 SC Salto Veloso
+421545 SC Sang�o
+421550 SC Santa Cec�lia
+421555 SC Santa Helena
+421560 SC Santa Rosa de Lima
+421565 SC Santa Rosa do Sul
+421567 SC Santa Terezinha
+421568 SC Santa Terezinha do Progresso
+421569 SC Santiago do Sul
+421570 SC Santo Amaro da Imperatriz
+421575 SC S�o Bernardino
+421580 SC S�o Bento do Sul
+421590 SC S�o Bonif�cio
+421600 SC S�o Carlos
+421605 SC S�o Cristov�o do Sul
+421610 SC S�o Domingos
+421620 SC S�o Francisco do Sul
+421625 SC S�o Jo�o do Oeste
+421630 SC S�o Jo�o Batista
+421635 SC S�o Jo�o do Itaperi�
+421640 SC S�o Jo�o do Sul
+421650 SC S�o Joaquim
+421660 SC S�o Jos�
+421670 SC S�o Jos� do Cedro
+421680 SC S�o Jos� do Cerrito
+421690 SC S�o Louren�o do Oeste
+421700 SC S�o Ludgero
+421710 SC S�o Martinho
+421715 SC S�o Miguel da Boa Vista
+421720 SC S�o Miguel do Oeste
+421725 SC S�o Pedro de Alc�ntara
+421730 SC Saudades
+421740 SC Schroeder
+421750 SC Seara
+421755 SC Serra Alta
+421760 SC Sider�polis
+421770 SC Sombrio
+421775 SC Sul Brasil
+421780 SC Tai�
+421790 SC Tangar�
+421795 SC Tigrinhos
+421800 SC Tijucas
+421810 SC Timb� do Sul
+421820 SC Timb�
+421825 SC Timb� Grande
+421830 SC Tr�s Barras
+421835 SC Treviso
+421840 SC Treze de Maio
+421850 SC Treze T�lias
+421860 SC Trombudo Central
+421870 SC Tubar�o
+421875 SC Tun�polis
+421880 SC Turvo
+421885 SC Uni�o do Oeste
+421890 SC Urubici
+421895 SC Urupema
+421900 SC Urussanga
+421910 SC Varge�o
+421915 SC Vargem
+421917 SC Vargem Bonita
+421920 SC Vidal Ramos
+421930 SC Videira
+421935 SC Vitor Meireles
+421940 SC Witmarsum
+421950 SC Xanxer�
+421960 SC Xavantina
+421970 SC Xaxim
+421985 SC Zort�a
+430003 RS Acegu�
+430005 RS �gua Santa
+430010 RS Agudo
+430020 RS Ajuricaba
+430030 RS Alecrim
+430040 RS Alegrete
+430045 RS Alegria
+430047 RS Almirante Tamandar� do Sul
+430050 RS Alpestre
+430055 RS Alto Alegre
+430057 RS Alto Feliz
+430060 RS Alvorada
+430063 RS Amaral Ferrador
+430064 RS Ametista do Sul
+430066 RS Andr� da Rocha
+430070 RS Anta Gorda
+430080 RS Ant�nio Prado
+430085 RS Arambar�
+430087 RS Araric�
+430090 RS Aratiba
+430100 RS Arroio do Meio
+430105 RS Arroio do Sal
+430107 RS Arroio do Padre
+430110 RS Arroio dos Ratos
+430120 RS Arroio do Tigre
+430130 RS Arroio Grande
+430140 RS Arvorezinha
+430150 RS Augusto Pestana
+430155 RS �urea
+430160 RS Bag�
+430163 RS Balne�rio Pinhal
+430165 RS Bar�o
+430170 RS Bar�o de Cotegipe
+430175 RS Bar�o do Triunfo
+430180 RS Barrac�o
+430185 RS Barra do Guarita
+430187 RS Barra do Quara�
+430190 RS Barra do Ribeiro
+430192 RS Barra do Rio Azul
+430195 RS Barra Funda
+430200 RS Barros Cassal
+430205 RS Benjamin Constant do Sul
+430210 RS Bento Gon�alves
+430215 RS Boa Vista das Miss�es
+430220 RS Boa Vista do Buric�
+430222 RS Boa Vista do Cadeado
+430223 RS Boa Vista do Incra
+430225 RS Boa Vista do Sul
+430258 RS Bozano
+430230 RS Bom Jesus
+430235 RS Bom Princ�pio
+430237 RS Bom Progresso
+430240 RS Bom Retiro do Sul
+430245 RS Boqueir�o do Le�o
+430250 RS Bossoroca
+430260 RS Braga
+430265 RS Brochier
+430270 RS Buti�
+430280 RS Ca�apava do Sul
+430290 RS Cacequi
+430300 RS Cachoeira do Sul
+430310 RS Cachoeirinha
+430320 RS Cacique Doble
+430330 RS Caibat�
+430340 RS Cai�ara
+430350 RS Camaqu�
+430355 RS Camargo
+430360 RS Cambar� do Sul
+430367 RS Campestre da Serra
+430370 RS Campina das Miss�es
+430380 RS Campinas do Sul
+430390 RS Campo Bom
+430400 RS Campo Novo
+430410 RS Campos Borges
+430420 RS Candel�ria
+430430 RS C�ndido God�i
+430435 RS Candiota
+430440 RS Canela
+430450 RS Cangu�u
+430460 RS Canoas
+430461 RS Canudos do Vale
+430462 RS Cap�o Bonito do Sul
+430463 RS Cap�o da Canoa
+430465 RS Cap�o do Cip�
+430466 RS Cap�o do Le�o
+430467 RS Capivari do Sul
+430468 RS Capela de Santana
+430469 RS Capit�o
+430470 RS Carazinho
+430471 RS Cara�
+430480 RS Carlos Barbosa
+430485 RS Carlos Gomes
+430490 RS Casca
+430495 RS Caseiros
+430500 RS Catu�pe
+430510 RS Caxias do Sul
+430511 RS Centen�rio
+430512 RS Cerrito
+430513 RS Cerro Branco
+430515 RS Cerro Grande
+430517 RS Cerro Grande do Sul
+430520 RS Cerro Largo
+430530 RS Chapada
+430535 RS Charqueadas
+430537 RS Charrua
+430540 RS Chiapetta
+430543 RS Chu�
+430544 RS Chuvisca
+430545 RS Cidreira
+430550 RS Cir�aco
+430558 RS Colinas
+430560 RS Colorado
+430570 RS Condor
+430580 RS Constantina
+430583 RS Coqueiro Baixo
+430585 RS Coqueiros do Sul
+430587 RS Coronel Barros
+430590 RS Coronel Bicaco
+430593 RS Coronel Pilar
+430595 RS Cotipor�
+430597 RS Coxilha
+430600 RS Crissiumal
+430605 RS Cristal
+430607 RS Cristal do Sul
+430610 RS Cruz Alta
+430613 RS Cruzaltense
+430620 RS Cruzeiro do Sul
+430630 RS David Canabarro
+430632 RS Derrubadas
+430635 RS Dezesseis de Novembro
+430637 RS Dilermando de Aguiar
+430640 RS Dois Irm�os
+430642 RS Dois Irm�os das Miss�es
+430645 RS Dois Lajeados
+430650 RS Dom Feliciano
+430655 RS Dom Pedro de Alc�ntara
+430660 RS Dom Pedrito
+430670 RS Dona Francisca
+430673 RS Doutor Maur�cio Cardoso
+430675 RS Doutor Ricardo
+430676 RS Eldorado do Sul
+430680 RS Encantado
+430690 RS Encruzilhada do Sul
+430692 RS Engenho Velho
+430693 RS Entre-Iju�s
+430695 RS Entre Rios do Sul
+430697 RS Erebango
+430700 RS Erechim
+430705 RS Ernestina
+430710 RS Herval
+430720 RS Erval Grande
+430730 RS Erval Seco
+430740 RS Esmeralda
+430745 RS Esperan�a do Sul
+430750 RS Espumoso
+430755 RS Esta��o
+430760 RS Est�ncia Velha
+430770 RS Esteio
+430780 RS Estrela
+430781 RS Estrela Velha
+430783 RS Eug�nio de Castro
+430786 RS Fagundes Varela
+430790 RS Farroupilha
+430800 RS Faxinal do Soturno
+430805 RS Faxinalzinho
+430807 RS Fazenda Vilanova
+430810 RS Feliz
+430820 RS Flores da Cunha
+430825 RS Floriano Peixoto
+430830 RS Fontoura Xavier
+430840 RS Formigueiro
+430843 RS Forquetinha
+430845 RS Fortaleza dos Valos
+430850 RS Frederico Westphalen
+430860 RS Garibaldi
+430865 RS Garruchos
+430870 RS Gaurama
+430880 RS General C�mara
+430885 RS Gentil
+430890 RS Get�lio Vargas
+430900 RS Giru�
+430905 RS Glorinha
+430910 RS Gramado
+430912 RS Gramado dos Loureiros
+430915 RS Gramado Xavier
+430920 RS Gravata�
+430925 RS Guabiju
+430930 RS Gua�ba
+430940 RS Guapor�
+430950 RS Guarani das Miss�es
+430955 RS Harmonia
+430957 RS Herveiras
+430960 RS Horizontina
+430965 RS Hulha Negra
+430970 RS Humait�
+430975 RS Ibarama
+430980 RS Ibia��
+430990 RS Ibiraiaras
+430995 RS Ibirapuit�
+431000 RS Ibirub�
+431010 RS Igrejinha
+431020 RS Iju�
+431030 RS Il�polis
+431033 RS Imb�
+431036 RS Imigrante
+431040 RS Independ�ncia
+431041 RS Inhacor�
+431043 RS Ip�
+431046 RS Ipiranga do Sul
+431050 RS Ira�
+431053 RS Itaara
+431055 RS Itacurubi
+431057 RS Itapuca
+431060 RS Itaqui
+431065 RS Itati
+431070 RS Itatiba do Sul
+431075 RS Ivor�
+431080 RS Ivoti
+431085 RS Jaboticaba
+431087 RS Jacuizinho
+431090 RS Jacutinga
+431100 RS Jaguar�o
+431110 RS Jaguari
+431112 RS Jaquirana
+431113 RS Jari
+431115 RS J�ia
+431120 RS J�lio de Castilhos
+431123 RS Lagoa Bonita do Sul
+431125 RS Lago�o
+431127 RS Lagoa dos Tr�s Cantos
+431130 RS Lagoa Vermelha
+431140 RS Lajeado
+431142 RS Lajeado do Bugre
+431150 RS Lavras do Sul
+431160 RS Liberato Salzano
+431162 RS Lindolfo Collor
+431164 RS Linha Nova
+431170 RS Machadinho
+431171 RS Ma�ambara
+431173 RS Mampituba
+431175 RS Manoel Viana
+431177 RS Maquin�
+431179 RS Marat�
+431180 RS Marau
+431190 RS Marcelino Ramos
+431198 RS Mariana Pimentel
+431200 RS Mariano Moro
+431205 RS Marques de Souza
+431210 RS Mata
+431213 RS Mato Castelhano
+431215 RS Mato Leit�o
+431217 RS Mato Queimado
+431220 RS Maximiliano de Almeida
+431225 RS Minas do Le�o
+431230 RS Miragua�
+431235 RS Montauri
+431237 RS Monte Alegre dos Campos
+431238 RS Monte Belo do Sul
+431240 RS Montenegro
+431242 RS Morma�o
+431244 RS Morrinhos do Sul
+431245 RS Morro Redondo
+431247 RS Morro Reuter
+431250 RS Mostardas
+431260 RS Mu�um
+431261 RS Muitos Cap�es
+431262 RS Muliterno
+431265 RS N�o-Me-Toque
+431267 RS Nicolau Vergueiro
+431270 RS Nonoai
+431275 RS Nova Alvorada
+431280 RS Nova Ara��
+431290 RS Nova Bassano
+431295 RS Nova Boa Vista
+431300 RS Nova Br�scia
+431301 RS Nova Candel�ria
+431303 RS Nova Esperan�a do Sul
+431306 RS Nova Hartz
+431308 RS Nova P�dua
+431310 RS Nova Palma
+431320 RS Nova Petr�polis
+431330 RS Nova Prata
+431333 RS Nova Ramada
+431335 RS Nova Roma do Sul
+431337 RS Nova Santa Rita
+431339 RS Novo Cabrais
+431340 RS Novo Hamburgo
+431342 RS Novo Machado
+431344 RS Novo Tiradentes
+431346 RS Novo Xingu
+431349 RS Novo Barreiro
+431350 RS Os�rio
+431360 RS Paim Filho
+431365 RS Palmares do Sul
+431370 RS Palmeira das Miss�es
+431380 RS Palmitinho
+431390 RS Panambi
+431395 RS Pantano Grande
+431400 RS Para�
+431402 RS Para�so do Sul
+431403 RS Pareci Novo
+431405 RS Parob�
+431406 RS Passa Sete
+431407 RS Passo do Sobrado
+431410 RS Passo Fundo
+431415 RS Paverama
+431417 RS Pedras Altas
+431420 RS Pedro Os�rio
+431430 RS Peju�ara
+431440 RS Pelotas
+431442 RS Picada Caf�
+431445 RS Pinhal
+431446 RS Pinhal da Serra
+431447 RS Pinhal Grande
+431449 RS Pinheirinho do Vale
+431450 RS Pinheiro Machado
+431455 RS Pirap�
+431460 RS Piratini
+431470 RS Planalto
+431475 RS Po�o das Antas
+431477 RS Pont�o
+431478 RS Ponte Preta
+431480 RS Port�o
+431490 RS Porto Alegre
+431500 RS Porto Lucena
+431505 RS Porto Mau�
+431507 RS Porto Vera Cruz
+431510 RS Porto Xavier
+431513 RS Pouso Novo
+431514 RS Presidente Lucena
+431515 RS Progresso
+431517 RS Prot�sio Alves
+431520 RS Putinga
+431530 RS Quara�
+431531 RS Quatro Irm�os
+431532 RS Quevedos
+431535 RS Quinze de Novembro
+431540 RS Redentora
+431545 RS Relvado
+431550 RS Restinga Seca
+431555 RS Rio dos �ndios
+431560 RS Rio Grande
+431570 RS Rio Pardo
+431575 RS Riozinho
+431580 RS Roca Sales
+431590 RS Rodeio Bonito
+431595 RS Rolador
+431600 RS Rolante
+431610 RS Ronda Alta
+431620 RS Rondinha
+431630 RS Roque Gonzales
+431640 RS Ros�rio do Sul
+431642 RS Sagrada Fam�lia
+431643 RS Saldanha Marinho
+431645 RS Salto do Jacu�
+431647 RS Salvador das Miss�es
+431650 RS Salvador do Sul
+431660 RS Sananduva
+431670 RS Santa B�rbara do Sul
+431673 RS Santa Cec�lia do Sul
+431675 RS Santa Clara do Sul
+431680 RS Santa Cruz do Sul
+431690 RS Santa Maria
+431695 RS Santa Maria do Herval
+431697 RS Santa Margarida do Sul
+431700 RS Santana da Boa Vista
+431710 RS Santana do Livramento
+431720 RS Santa Rosa
+431725 RS Santa Tereza
+431730 RS Santa Vit�ria do Palmar
+431740 RS Santiago
+431750 RS Santo �ngelo
+431755 RS Santo Ant�nio do Palma
+431760 RS Santo Ant�nio da Patrulha
+431770 RS Santo Ant�nio das Miss�es
+431775 RS Santo Ant�nio do Planalto
+431780 RS Santo Augusto
+431790 RS Santo Cristo
+431795 RS Santo Expedito do Sul
+431800 RS S�o Borja
+431805 RS S�o Domingos do Sul
+431810 RS S�o Francisco de Assis
+431820 RS S�o Francisco de Paula
+431830 RS S�o Gabriel
+431840 RS S�o Jer�nimo
+431842 RS S�o Jo�o da Urtiga
+431843 RS S�o Jo�o do Pol�sine
+431844 RS S�o Jorge
+431845 RS S�o Jos� das Miss�es
+431846 RS S�o Jos� do Herval
+431848 RS S�o Jos� do Hort�ncio
+431849 RS S�o Jos� do Inhacor�
+431850 RS S�o Jos� do Norte
+431860 RS S�o Jos� do Ouro
+431861 RS S�o Jos� do Sul
+431862 RS S�o Jos� dos Ausentes
+431870 RS S�o Leopoldo
+431880 RS S�o Louren�o do Sul
+431890 RS S�o Luiz Gonzaga
+431900 RS S�o Marcos
+431910 RS S�o Martinho
+431912 RS S�o Martinho da Serra
+431915 RS S�o Miguel das Miss�es
+431920 RS S�o Nicolau
+431930 RS S�o Paulo das Miss�es
+431935 RS S�o Pedro da Serra
+431936 RS S�o Pedro das Miss�es
+431937 RS S�o Pedro do Buti�
+431940 RS S�o Pedro do Sul
+431950 RS S�o Sebasti�o do Ca�
+431960 RS S�o Sep�
+431970 RS S�o Valentim
+431971 RS S�o Valentim do Sul
+431973 RS S�o Val�rio do Sul
+431975 RS S�o Vendelino
+431980 RS S�o Vicente do Sul
+431990 RS Sapiranga
+432000 RS Sapucaia do Sul
+432010 RS Sarandi
+432020 RS Seberi
+432023 RS Sede Nova
+432026 RS Segredo
+432030 RS Selbach
+432032 RS Senador Salgado Filho
+432035 RS Sentinela do Sul
+432040 RS Serafina Corr�a
+432045 RS S�rio
+432050 RS Sert�o
+432055 RS Sert�o Santana
+432057 RS Sete de Setembro
+432060 RS Severiano de Almeida
+432065 RS Silveira Martins
+432067 RS Sinimbu
+432070 RS Sobradinho
+432080 RS Soledade
+432085 RS Taba�
+432090 RS Tapejara
+432100 RS Tapera
+432110 RS Tapes
+432120 RS Taquara
+432130 RS Taquari
+432132 RS Taquaru�u do Sul
+432135 RS Tavares
+432140 RS Tenente Portela
+432143 RS Terra de Areia
+432145 RS Teut�nia
+432146 RS Tio Hugo
+432147 RS Tiradentes do Sul
+432149 RS Toropi
+432150 RS Torres
+432160 RS Tramanda�
+432162 RS Travesseiro
+432163 RS Tr�s Arroios
+432166 RS Tr�s Cachoeiras
+432170 RS Tr�s Coroas
+432180 RS Tr�s de Maio
+432183 RS Tr�s Forquilhas
+432185 RS Tr�s Palmeiras
+432190 RS Tr�s Passos
+432195 RS Trindade do Sul
+432200 RS Triunfo
+432210 RS Tucunduva
+432215 RS Tunas
+432218 RS Tupanci do Sul
+432220 RS Tupanciret�
+432225 RS Tupandi
+432230 RS Tuparendi
+432232 RS Turu�u
+432234 RS Ubiretama
+432235 RS Uni�o da Serra
+432237 RS Unistalda
+432240 RS Uruguaiana
+432250 RS Vacaria
+432252 RS Vale Verde
+432253 RS Vale do Sol
+432254 RS Vale Real
+432255 RS Vanini
+432260 RS Ven�ncio Aires
+432270 RS Vera Cruz
+432280 RS Veran�polis
+432285 RS Vespasiano Correa
+432290 RS Viadutos
+432300 RS Viam�o
+432310 RS Vicente Dutra
+432320 RS Victor Graeff
+432330 RS Vila Flores
+432335 RS Vila L�ngaro
+432340 RS Vila Maria
+432345 RS Vila Nova do Sul
+432350 RS Vista Alegre
+432360 RS Vista Alegre do Prata
+432370 RS Vista Ga�cha
+432375 RS Vit�ria das Miss�es
+432377 RS Westf�lia
+432380 RS Xangri-l�
+500020 MS �gua Clara
+500025 MS Alcin�polis
+500060 MS Amambai
+500070 MS Anast�cio
+500080 MS Anauril�ndia
+500085 MS Ang�lica
+500090 MS Ant�nio Jo�o
+500100 MS Aparecida do Taboado
+500110 MS Aquidauana
+500124 MS Aral Moreira
+500150 MS Bandeirantes
+500190 MS Bataguassu
+500200 MS Bataypor�
+500210 MS Bela Vista
+500215 MS Bodoquena
+500220 MS Bonito
+500230 MS Brasil�ndia
+500240 MS Caarap�
+500260 MS Camapu�
+500270 MS Campo Grande
+500280 MS Caracol
+500290 MS Cassil�ndia
+500295 MS Chapad�o do Sul
+500310 MS Corguinho
+500315 MS Coronel Sapucaia
+500320 MS Corumb�
+500325 MS Costa Rica
+500330 MS Coxim
+500345 MS Deod�polis
+500348 MS Dois Irm�os do Buriti
+500350 MS Douradina
+500370 MS Dourados
+500375 MS Eldorado
+500380 MS F�tima do Sul
+500400 MS Gl�ria de Dourados
+500410 MS Guia Lopes da Laguna
+500430 MS Iguatemi
+500440 MS Inoc�ncia
+500450 MS Itapor�
+500460 MS Itaquira�
+500470 MS Ivinhema
+500480 MS Japor�
+500490 MS Jaraguari
+500500 MS Jardim
+500510 MS Jate�
+500515 MS Juti
+500520 MS Lad�rio
+500525 MS Laguna Carap�
+500540 MS Maracaju
+500560 MS Miranda
+500568 MS Mundo Novo
+500570 MS Navira�
+500580 MS Nioaque
+500600 MS Nova Alvorada do Sul
+500620 MS Nova Andradina
+500625 MS Novo Horizonte do Sul
+500630 MS Parana�ba
+500635 MS Paranhos
+500640 MS Pedro Gomes
+500660 MS Ponta Por�
+500690 MS Porto Murtinho
+500710 MS Ribas do Rio Pardo
+500720 MS Rio Brilhante
+500730 MS Rio Negro
+500740 MS Rio Verde de Mato Grosso
+500750 MS Rochedo
+500755 MS Santa Rita do Pardo
+500769 MS S�o Gabriel do Oeste
+500770 MS Sete Quedas
+500780 MS Selv�ria
+500790 MS Sidrol�ndia
+500793 MS Sonora
+500795 MS Tacuru
+500797 MS Taquarussu
+500800 MS Terenos
+500830 MS Tr�s Lagoas
+500840 MS Vicentina
+510010 MT Acorizal
+510020 MT �gua Boa
+510025 MT Alta Floresta
+510030 MT Alto Araguaia
+510035 MT Alto Boa Vista
+510040 MT Alto Gar�as
+510050 MT Alto Paraguai
+510060 MT Alto Taquari
+510080 MT Apiac�s
+510100 MT Araguaiana
+510120 MT Araguainha
+510125 MT Araputanga
+510130 MT Aren�polis
+510140 MT Aripuan�
+510160 MT Bar�o de Melga�o
+510170 MT Barra do Bugres
+510180 MT Barra do Gar�as
+510185 MT Bom Jesus do Araguaia
+510190 MT Brasnorte
+510250 MT C�ceres
+510260 MT Campin�polis
+510263 MT Campo Novo do Parecis
+510267 MT Campo Verde
+510268 MT Campos de J�lio
+510269 MT Canabrava do Norte
+510270 MT Canarana
+510279 MT Carlinda
+510285 MT Castanheira
+510300 MT Chapada dos Guimar�es
+510305 MT Cl�udia
+510310 MT Cocalinho
+510320 MT Col�der
+510325 MT Colniza
+510330 MT Comodoro
+510335 MT Confresa
+510336 MT Conquista d`Oeste
+510337 MT Cotrigua�u
+510340 MT Cuiab�
+510343 MT Curvel�ndia
+510345 MT Denise
+510350 MT Diamantino
+510360 MT Dom Aquino
+510370 MT Feliz Natal
+510380 MT Figueir�polis d`Oeste
+510385 MT Ga�cha do Norte
+510390 MT General Carneiro
+510395 MT Gl�ria d`Oeste
+510410 MT Guarant� do Norte
+510420 MT Guiratinga
+510450 MT Indiava�
+510455 MT Ita�ba
+510460 MT Itiquira
+510480 MT Jaciara
+510490 MT Jangada
+510500 MT Jauru
+510510 MT Juara
+510515 MT Ju�na
+510517 MT Juruena
+510520 MT Juscimeira
+510523 MT Lambari d`Oeste
+510525 MT Lucas do Rio Verde
+510530 MT Luci�ra
+510550 MT Vila Bela da Sant�ssima Trindade
+510558 MT Marcel�ndia
+510560 MT Matup�
+510562 MT Mirassol d`Oeste
+510590 MT Nobres
+510600 MT Nortel�ndia
+510610 MT Nossa Senhora do Livramento
+510615 MT Nova Bandeirantes
+510618 MT Nova Lacerda
+510619 MT Nova Santa Helena
+510620 MT Nova Brasil�ndia
+510621 MT Nova Cana� do Norte
+510622 MT Nova Mutum
+510623 MT Nova Ol�mpia
+510624 MT Nova Ubirat�
+510625 MT Nova Xavantina
+510626 MT Novo Mundo
+510627 MT Novo Horizonte do Norte
+510628 MT Novo S�o Joaquim
+510629 MT Parana�ta
+510630 MT Paranatinga
+510631 MT Novo Santo Ant�nio
+510637 MT Pedra Preta
+510642 MT Peixoto de Azevedo
+510645 MT Planalto da Serra
+510650 MT Pocon�
+510665 MT Pontal do Araguaia
+510670 MT Ponte Branca
+510675 MT Pontes e Lacerda
+510677 MT Porto Alegre do Norte
+510680 MT Porto dos Ga�chos
+510682 MT Porto Esperidi�o
+510685 MT Porto Estrela
+510700 MT Poxor�o
+510704 MT Primavera do Leste
+510706 MT Quer�ncia
+510710 MT S�o Jos� dos Quatro Marcos
+510715 MT Reserva do Caba�al
+510718 MT Ribeir�o Cascalheira
+510719 MT Ribeir�ozinho
+510720 MT Rio Branco
+510724 MT Santa Carmem
+510726 MT Santo Afonso
+510729 MT S�o Jos� do Povo
+510730 MT S�o Jos� do Rio Claro
+510735 MT S�o Jos� do Xingu
+510740 MT S�o Pedro da Cipa
+510757 MT Rondol�ndia
+510760 MT Rondon�polis
+510770 MT Ros�rio Oeste
+510774 MT Santa Cruz do Xingu
+510775 MT Salto do C�u
+510776 MT Santa Rita do Trivelato
+510777 MT Santa Terezinha
+510779 MT Santo Ant�nio do Leste
+510780 MT Santo Ant�nio do Leverger
+510785 MT S�o F�lix do Araguaia
+510787 MT Sapezal
+510788 MT Serra Nova Dourada
+510790 MT Sinop
+510792 MT Sorriso
+510794 MT Tabapor�
+510795 MT Tangar� da Serra
+510800 MT Tapurah
+510805 MT Terra Nova do Norte
+510810 MT Tesouro
+510820 MT Torixor�u
+510830 MT Uni�o do Sul
+510835 MT Vale de S�o Domingos
+510840 MT V�rzea Grande
+510850 MT Vera
+510860 MT Vila Rica
+510880 MT Nova Guarita
+510885 MT Nova Maril�ndia
+510890 MT Nova Maring�
+510895 MT Nova Monte verde
+520005 GO Abadia de Goi�s
+520010 GO Abadi�nia
+520013 GO Acre�na
+520015 GO Adel�ndia
+520017 GO �gua Fria de Goi�s
+520020 GO �gua Limpa
+520025 GO �guas Lindas de Goi�s
+520030 GO Alex�nia
+520050 GO Alo�ndia
+520055 GO Alto Horizonte
+520060 GO Alto Para�so de Goi�s
+520080 GO Alvorada do Norte
+520082 GO Amaralina
+520085 GO Americano do Brasil
+520090 GO Amorin�polis
+520110 GO An�polis
+520120 GO Anhanguera
+520130 GO Anicuns
+520140 GO Aparecida de Goi�nia
+520145 GO Aparecida do Rio Doce
+520150 GO Apor�
+520160 GO Ara�u
+520170 GO Aragar�as
+520180 GO Aragoi�nia
+520215 GO Araguapaz
+520235 GO Aren�polis
+520250 GO Aruan�
+520260 GO Auril�ndia
+520280 GO Avelin�polis
+520310 GO Baliza
+520320 GO Barro Alto
+520330 GO Bela Vista de Goi�s
+520340 GO Bom Jardim de Goi�s
+520350 GO Bom Jesus de Goi�s
+520355 GO Bonfin�polis
+520357 GO Bon�polis
+520360 GO Brazabrantes
+520380 GO Brit�nia
+520390 GO Buriti Alegre
+520393 GO Buriti de Goi�s
+520396 GO Buritin�polis
+520400 GO Cabeceiras
+520410 GO Cachoeira Alta
+520420 GO Cachoeira de Goi�s
+520425 GO Cachoeira Dourada
+520430 GO Ca�u
+520440 GO Caiap�nia
+520450 GO Caldas Novas
+520455 GO Caldazinha
+520460 GO Campestre de Goi�s
+520465 GO Campina�u
+520470 GO Campinorte
+520480 GO Campo Alegre de Goi�s
+520485 GO Campo Limpo de Goi�s
+520490 GO Campos Belos
+520495 GO Campos Verdes
+520500 GO Carmo do Rio Verde
+520505 GO Castel�ndia
+520510 GO Catal�o
+520520 GO Catura�
+520530 GO Cavalcante
+520540 GO Ceres
+520545 GO Cezarina
+520547 GO Chapad�o do C�u
+520549 GO Cidade Ocidental
+520551 GO Cocalzinho de Goi�s
+520552 GO Colinas do Sul
+520570 GO C�rrego do Ouro
+520580 GO Corumb� de Goi�s
+520590 GO Corumba�ba
+520620 GO Cristalina
+520630 GO Cristian�polis
+520640 GO Crix�s
+520650 GO Crom�nia
+520660 GO Cumari
+520670 GO Damian�polis
+520680 GO Damol�ndia
+520690 GO Davin�polis
+520710 GO Diorama
+520725 GO Doverl�ndia
+520735 GO Edealina
+520740 GO Ed�ia
+520750 GO Estrela do Norte
+520753 GO Faina
+520760 GO Fazenda Nova
+520780 GO Firmin�polis
+520790 GO Flores de Goi�s
+520800 GO Formosa
+520810 GO Formoso
+520815 GO Gameleira de Goi�s
+520830 GO Divin�polis de Goi�s
+520840 GO Goian�polis
+520850 GO Goiandira
+520860 GO Goian�sia
+520870 GO Goi�nia
+520880 GO Goianira
+520890 GO Goi�s
+520910 GO Goiatuba
+520915 GO Gouvel�ndia
+520920 GO Guap�
+520929 GO Guara�ta
+520940 GO Guarani de Goi�s
+520945 GO Guarinos
+520960 GO Heitora�
+520970 GO Hidrol�ndia
+520980 GO Hidrolina
+520990 GO Iaciara
+520993 GO Inaciol�ndia
+520995 GO Indiara
+521000 GO Inhumas
+521010 GO Ipameri
+521015 GO Ipiranga de Goi�s
+521020 GO Ipor�
+521030 GO Israel�ndia
+521040 GO Itabera�
+521056 GO Itaguari
+521060 GO Itaguaru
+521080 GO Itaj�
+521090 GO Itapaci
+521100 GO Itapirapu�
+521120 GO Itapuranga
+521130 GO Itarum�
+521140 GO Itau�u
+521150 GO Itumbiara
+521160 GO Ivol�ndia
+521170 GO Jandaia
+521180 GO Jaragu�
+521190 GO Jata�
+521200 GO Jaupaci
+521205 GO Jes�polis
+521210 GO Jovi�nia
+521220 GO Jussara
+521225 GO Lagoa Santa
+521230 GO Leopoldo de Bulh�es
+521250 GO Luzi�nia
+521260 GO Mairipotaba
+521270 GO Mamba�
+521280 GO Mara Rosa
+521290 GO Marzag�o
+521295 GO Matrinch�
+521300 GO Mauril�ndia
+521305 GO Mimoso de Goi�s
+521308 GO Mina�u
+521310 GO Mineiros
+521340 GO Moipor�
+521350 GO Monte Alegre de Goi�s
+521370 GO Montes Claros de Goi�s
+521375 GO Montividiu
+521377 GO Montividiu do Norte
+521380 GO Morrinhos
+521385 GO Morro Agudo de Goi�s
+521390 GO Moss�medes
+521400 GO Mozarl�ndia
+521405 GO Mundo Novo
+521410 GO Mutun�polis
+521440 GO Naz�rio
+521450 GO Ner�polis
+521460 GO Niquel�ndia
+521470 GO Nova Am�rica
+521480 GO Nova Aurora
+521483 GO Nova Crix�s
+521486 GO Nova Gl�ria
+521487 GO Nova Igua�u de Goi�s
+521490 GO Nova Roma
+521500 GO Nova Veneza
+521520 GO Novo Brasil
+521523 GO Novo Gama
+521525 GO Novo Planalto
+521530 GO Orizona
+521540 GO Ouro Verde de Goi�s
+521550 GO Ouvidor
+521560 GO Padre Bernardo
+521565 GO Palestina de Goi�s
+521570 GO Palmeiras de Goi�s
+521580 GO Palmelo
+521590 GO Palmin�polis
+521600 GO Panam�
+521630 GO Paranaiguara
+521640 GO Para�na
+521645 GO Perol�ndia
+521680 GO Petrolina de Goi�s
+521690 GO Pilar de Goi�s
+521710 GO Piracanjuba
+521720 GO Piranhas
+521730 GO Piren�polis
+521740 GO Pires do Rio
+521760 GO Planaltina
+521770 GO Pontalina
+521800 GO Porangatu
+521805 GO Porteir�o
+521810 GO Portel�ndia
+521830 GO Posse
+521839 GO Professor Jamil
+521850 GO Quirin�polis
+521860 GO Rialma
+521870 GO Rian�polis
+521878 GO Rio Quente
+521880 GO Rio Verde
+521890 GO Rubiataba
+521900 GO Sanclerl�ndia
+521910 GO Santa B�rbara de Goi�s
+521920 GO Santa Cruz de Goi�s
+521925 GO Santa F� de Goi�s
+521930 GO Santa Helena de Goi�s
+521935 GO Santa Isabel
+521940 GO Santa Rita do Araguaia
+521945 GO Santa Rita do Novo Destino
+521950 GO Santa Rosa de Goi�s
+521960 GO Santa Tereza de Goi�s
+521970 GO Santa Terezinha de Goi�s
+521971 GO Santo Ant�nio da Barra
+521973 GO Santo Ant�nio de Goi�s
+521975 GO Santo Ant�nio do Descoberto
+521980 GO S�o Domingos
+521990 GO S�o Francisco de Goi�s
+522000 GO S�o Jo�o d`Alian�a
+522005 GO S�o Jo�o da Para�na
+522010 GO S�o Lu�s de Montes Belos
+522015 GO S�o Lu�z do Norte
+522020 GO S�o Miguel do Araguaia
+522026 GO S�o Miguel do Passa Quatro
+522028 GO S�o Patr�cio
+522040 GO S�o Sim�o
+522045 GO Senador Canedo
+522050 GO Serran�polis
+522060 GO Silv�nia
+522068 GO Simol�ndia
+522070 GO S�tio d`Abadia
+522100 GO Taquaral de Goi�s
+522108 GO Teresina de Goi�s
+522119 GO Terez�polis de Goi�s
+522130 GO Tr�s Ranchos
+522140 GO Trindade
+522145 GO Trombas
+522150 GO Turv�nia
+522155 GO Turvel�ndia
+522157 GO Uirapuru
+522160 GO Urua�u
+522170 GO Uruana
+522180 GO Uruta�
+522185 GO Valpara�so de Goi�s
+522190 GO Varj�o
+522200 GO Vian�polis
+522205 GO Vicentin�polis
+522220 GO Vila Boa
+522230 GO Vila Prop�cio
+530010 DF Bras�lia
+220095 PI Aroeiras do Itaim
+500390 MS Figueir�o
+510452 MT Ipiranga do Norte
+510454 MT Itanhang�
+510617 MT Nova Nazar�
+220672 PI Naz�ria
+150475 PA Moju� dos Campos
+421265 SC Pescaria Brava
+422000 SC Balne�rio Rinc�o
+431454 RS Pinto Bandeira
+500627 MS Para�so das �guas
